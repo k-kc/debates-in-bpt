@@ -24,7 +24,7 @@ Resolution:
 
 ### Tuesday, Feb 10 - Can moral suasion redeem a nation built on slavery? 
 - Maria Stewart, [“Religion and the Pure Principles of Morality” (1831)](https://sites.miamioh.edu/empire/files/2022/09/1831-Stewart-Religion-and-the-Pure-Principles-of-Morality.pdf)
-- William Lloyd Garrison, [“No Compromise with the Evil of Slavery”]
+- William Lloyd Garrison, [“Declaration of the Sentiments of the American Anti-Slavery Society”](https://archive.org/details/ASPC0002464400/page/n65/mode/2up)
 - Frederick Douglass, ["West India Emancipation" in _Two Speeches by Frederick Douglass_](https://archive.org/details/ASPC0001937700/mode/2up)
 - Henry Highland Garnet, [“An Address to the Slaves of the United States of America" (1843)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=etas)
 ### Thursday, Feb 12 - Debate 2 
