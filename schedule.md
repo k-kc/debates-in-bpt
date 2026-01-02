@@ -31,4 +31,13 @@ Resolution:
 Resolution: 
 
 ### Tuesday, Feb 17 - Can private acts (of care, concealment, endurance) be a form of political action?
+- Harriet Jacobs, _Incidents in the Life of a Slave Girl_
+  - ["Ch. 5 - The Trials of Girlhood"](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0009)
+  - ["Ch. 6 - The Jealous Mistress"](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0010)
+  - ["Ch. 7 - The Lover"](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0011)
+- Maria Stewart, ["Why Sit Ye Here and Die?" (1832)]()
+- Sojourner Truth, ["_Narrative of Sojourner Truth_ pg. 38 - 54"](https://docsouth.unc.edu/neh/truth50/truth50.html)
+  - ["Court Records From Sojourner Truth’s 1828 Legal Battle to Free Her Son"](https://www.nypl.org/blog/2022/09/29/court-records-sojourner-truth-legal-battle)
 
+### Thurday, Feb 19 - Debate 3
+Resolution: 
