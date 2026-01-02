@@ -5,7 +5,15 @@
 ## Unit 1 
 ### Thursday, Jan 29 - Lecture
 ### Tuesday, Feb 3 - Can the United States ever be home to free Black people?
-- Martin Delany, “The Political Destiny of the Colored Race on the American Continent”
+- Martin Delany, _The Condition, Elevation, Emigration, and Destiny of the Colored People of the United States_(1852)
+  - ["I. Condition of Many Classes in Europe Considered"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#I)
+  - ["II. Comparative Condition of the Colored People of the United States"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#II)
+  - ["III. American Colonization"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#III)
+  - ["IV. Our Elevation in the United States"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#IV)
+  - ["V. Means of Elevation"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#V)
+  - ["VI. The United States Our Country"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#VI)
+  - ["XXII. Things As They Are"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#XXII)
+  - 
 - Frederick Douglass, “The Free Negro’s Place in America”
 - Mary Ann Shadd, “A Plea for Emigration”
 ### Thursday, Feb 5 - Debate 1
