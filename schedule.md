@@ -3,7 +3,8 @@
 ### Thursday, Jan 22 - On Black Political Thought
 - Michael Dawson, “Introduction: The Contours of Black Political Thought,” in _Black Visions_, pp. 1-44
 ### Tuesday, Jan - 
-## Unit 1 
+
+## Unit 1 Bondage, Fugitivity, and Freedom
 ### Thursday, Jan 29 - Lecture
 
 ### Tuesday, Feb 3 - Can the United States ever be home to free Black people?
@@ -41,3 +42,5 @@ Resolution:
 
 ### Thurday, Feb 19 - Debate 3
 Resolution: 
+
+## Unit 2: 
