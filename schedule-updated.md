@@ -24,8 +24,9 @@
     - ["XXII. Things As They Are"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#XXII)
 
 ### Tuesday, Feb 3 - Debate 1 
+- **Resolution**: The destiny of the Colored People lies beyond the borders of the United States. 
 - Counterargument Brief #1 Due Monday, February 2 at 11:59 PM Eastern
-- Resolution: 
+
 
 ### Thursday, Feb 5 
 - William Lloyd Garrison, [“No Compromise with the Evil of Slavery”](https://socialwelfare.library.vcu.edu/eras/antebellum/no-compromise-with-evil-slavery/)
@@ -35,3 +36,10 @@
 ### Tuesday, Feb 10 
 - Frederick Douglass, ["West India Emancipation" in _Two Speeches by Frederick Douglass_](https://archive.org/details/ASPC0001937700/mode/2up)
 - Henry Highland Garnet, [“An Address to the Slaves of the United States of America" (1843)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=etas)
+
+### Thursday, Feb 12 - Debate 2
+- **Resolution**: When moral appeals are ignored, violence becomes a moral duty.
+- Counterargument Brief #2 Due Wednesday, Feb. 11 at 11:59 PM Eastern
+
+### Tuesday, Feb 17 
+
