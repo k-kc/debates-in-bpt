@@ -60,9 +60,10 @@
 - Resolution: Private acts of care and survival are as politically powerful as public protest.
 - Counterargument Brief #3 Due Wednesday, Feb. 25 at 11:59 PM Eastern
 
-## Unit 2 - The Nadir
+## Unit 2 - Nadir
 ### Mar 3
-- Ida B. Wells, _Southern Horror_,“Self-Help”
+- Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_
+  - “Self-Help”
   - “The Jim Crow Car” (1891)
   - “Lynch Law and the Color Line” (1893)
   - “Lynching and the Excuse for It” (1901)
@@ -73,20 +74,45 @@
   - ["Chapter VI. Black Race And Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X. A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV.The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
+
 ### Mar 10 - SPRING BREAK NO CLASS
+
 ### Mar 12 - SPRING BREAK NO CLASS
 
 ### Mar 17 
-- W. E. B. Du Bois,  The Souls of Black Folk (1903)
+- W. E. B. Du Bois, _The Souls of Black Folk_ (1903)
   - ["Of Our Spiritual Strivings"]
   - ["Of the Dawn of Freedom"]
   - ["Of the Training of Black Men"]
-  - ["	Of the Sorrow Songs"]
+
+
 ### Mar 19 
-
-- Booker T. Washington, “Individual Responsibility” and “Substance vs. Shadow” from Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute (1902)
+- Anna Julia Cooper, “Womanhood: A Vital Element in the Regeneration and Progress of a Race” in A Voice from the South, (1892)
 - Ida B. Wells-Barnett, “Woman's Mission" (1885), "Our Women” (1887), “The Model Woman” (1888)
-- Anna Julia Cooper, “Womanhood: A Vital Element in the Regeneration and Progress of a Race” in A Voice from the South, by, a Black Woman of the South (1892)
-- W. E. B. Du Bois, “Spiritual Strivings” and “Of Mr. Booker T. Washington and Others" in _Souls_(1903).
+- Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
+  - “Individual Responsibility”
+  - “Substance vs. Shadow”  
+- W. E. B. Du Bois, _Souls_(1903)
+  - ["Of Mr. Booker T. Washington"]
+  - ["Of the Sorrow Songs"]
 
-### Mar 5
+### Mar 24 - Debate 4
+Resolution: Progress for Black Americans will come through moral uplift, not protest.
+- Counterargument Brief #4 due Monday, Mar 23 at 11:59 PM
+
+### Mar 26 - NO CLASS
+
+### Mar 31 
+- W.E.B. Du Bois, “The Talented Tenth” in _The Negro Problem_ 
+- Anna Julia Cooper, “Higher Education of Women” (1892) 
+- Booker T. Washington, “Industrial Education for the Negro”
+- T. Thomas Fortune, “Chapter VI: Education -- Professional or Industrial”
+
+### Apr 2 - Debate 5 
+Resolution: Industrial and moral training, not higher education and political agitation, offers the surest path to racial advancement
+- Counterargument Brief #5 due Wednesday, Apr 1 at 11:59 PM
+
+## Unit 3 
+
+
+
