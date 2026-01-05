@@ -44,11 +44,11 @@
 
 ### Tuesday, Feb 17 
 - Harriet Jacobs, _Incidents in the Life of a Slave Girl_
-  - ["V. The Trials Of Girlhood."]
-  - ["X. A Perilous Passage In The Slave Girl’s Life."]
-  - ["XVII. The Flight."]
-  - ["XX. New Perils."]
-  - [XXI. The Loophole Of Retreat.]
+  - ["V. The Trials Of Girlhood."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0009)
+  - ["X. A Perilous Passage In The Slave Girl’s Life."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0014)
+  - ["XVII. The Flight."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0021)
+  - ["XX. New Perils."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0024)
+  - [XXI. The Loophole Of Retreat.](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0025)
  
 ### Thursday, Feb 19
 - Maria Stewart, “Why Ye Sit Here and Die?” 
