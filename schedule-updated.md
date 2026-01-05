@@ -7,7 +7,7 @@
   - ["Preamble'](https://archive.org/details/walkersappealinf1829walk/page/n1/mode/2up)
   - ["Article 1 - Our Wretchedness in Consequence of Slavery"](https://archive.org/details/walkersappealinf1829walk/page/8/mode/2up)
 
- ### Tuesday, Jan 27 - Two Interpretations of _Appeal__
+ ### Tuesday, Jan 27 - Two Interpretations of _Appeal_
  - Melvin Rogers, "David Walker and the Political Power of the Appeal,"(2014)
  - Tommie Shelby, "White Supremacy and Black Solidarity: David Walker’s Appeal," (2009)
 
