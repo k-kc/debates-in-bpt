@@ -27,3 +27,9 @@
 - Counterargument Brief #1 Due Monday, February 2 at 11:59 PM Eastern
 - Resolution: 
 
+### Thursday, Feb 5 
+- William Lloyd Garrison, [“No Compromise with the Evil of Slavery”](https://socialwelfare.library.vcu.edu/eras/antebellum/no-compromise-with-evil-slavery/)
+- Garrison, ["American Anti-Slavery Society Declaration of Sentiments"](https://teachingamericanhistory.org/document/declaration-of-the-national-anti-slavery-convention/) 
+- Maria Stewart, [“Religion and the Pure Principles of Morality”] (https://teachingamericanhistory.org/document/religion-and-the-pure-principles-of-morality-the-sure-foundation-on-which-we-must-build/)
+
+### Tuesday, Feb 10 
