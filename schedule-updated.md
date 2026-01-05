@@ -8,8 +8,10 @@
 
  ### Tuesday, Jan 27 
  - David Walker's "Article IV. Our Wretchedness in Consequence of the Colonizing Plan" (pg. 56-70) in _Appeal_
- - Douglass, "The Free Negroes' Place in America"
  - Richard Allen, ["Against African Colnization"](https://www.religioninamerica.org/rahp_objects/against-african-colonization/) in _Freedom's Journal_
+ - Frederick Douglass, _Speeches, Debates, and Interviews Volume 2: 1847-1854_
+  -  [“The Free Negro’s Place in America” (1851)](https://frederickdouglasspapersproject.com/s/digitaledition/item/15968)
+  -  ["A Nation in the Midst of a Nation" (1853)](https://frederickdouglasspapersproject.com/s/digitaledition/item/10004)
 
  ### Thursday, Jan 29
  -  Mary Ann Shadd, "Introductory Remarks" in _A Plea for Emigration_
