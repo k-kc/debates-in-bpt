@@ -30,6 +30,8 @@
 ### Thursday, Feb 5 
 - William Lloyd Garrison, [“No Compromise with the Evil of Slavery”](https://socialwelfare.library.vcu.edu/eras/antebellum/no-compromise-with-evil-slavery/)
 - Garrison, ["American Anti-Slavery Society Declaration of Sentiments"](https://teachingamericanhistory.org/document/declaration-of-the-national-anti-slavery-convention/) 
-- Maria Stewart, [“Religion and the Pure Principles of Morality”] (https://teachingamericanhistory.org/document/religion-and-the-pure-principles-of-morality-the-sure-foundation-on-which-we-must-build/)
+- Maria Stewart, [“Religion and the Pure Principles of Morality”](https://teachingamericanhistory.org/document/religion-and-the-pure-principles-of-morality-the-sure-foundation-on-which-we-must-build/)
 
 ### Tuesday, Feb 10 
+- Frederick Douglass, ["West India Emancipation" in _Two Speeches by Frederick Douglass_](https://archive.org/details/ASPC0001937700/mode/2up)
+- Henry Highland Garnet, [“An Address to the Slaves of the United States of America" (1843)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=etas)
