@@ -7,16 +7,14 @@
   - ["Preamble'](https://archive.org/details/walkersappealinf1829walk/page/n1/mode/2up)
   - ["Article 1 - Our Wretchedness in Consequence of Slavery"](https://archive.org/details/walkersappealinf1829walk/page/8/mode/2up)
 
- ### Tuesday, Jan 27 - Two Interpretations of _Appeal_
- - Melvin Rogers, "David Walker and the Political Power of the Appeal,"(2014)
- - Tommie Shelby, "White Supremacy and Black Solidarity: David Walker’s Appeal," (2009)
+ ### Tuesday, Jan 27 - Bondage, Fugitivity, and Freedom
+-  Mary Ann Shadd, "Introductory Remarks" in _A Plea for Emigration_(1852)
 
- ### Thursday, Jan 29
- -  Mary Ann Shadd, "Introductory Remarks" in _A Plea for Emigration_(1852)
- -  Frederick Douglass, _Speeches, Debates, and Interviews Volume 2: 1847-1854_
+### Thursday, Jan 29
+-  Frederick Douglass, _Speeches, Debates, and Interviews Volume 2: 1847-1854_
    - [“The Free Negro’s Place in America” (1851)](https://frederickdouglasspapersproject.com/s/digitaledition/item/15968)
    - ["A Nation in the Midst of a Nation" (1853)](https://frederickdouglasspapersproject.com/s/digitaledition/item/10004)
- - Martin Delany, _Condition, Elevation, Emigration and Destiny of the Colored People of the United States_(1852)
+- Martin Delany, _Condition, Elevation, Emigration and Destiny of the Colored People of the United States_(1852)
     - ["I. Condition of Many Classes in Europe Considered"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#I)
     - ["II. Comparative Condition of the Colored People of the United States"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#II)
     - ["VI. The United States Our Country"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#VI)
@@ -30,35 +28,18 @@
 
 
 ### Thursday, Feb 5 
-- William Lloyd Garrison, [“No Compromise with the Evil of Slavery”](https://socialwelfare.library.vcu.edu/eras/antebellum/no-compromise-with-evil-slavery/)
-- Garrison, ["American Anti-Slavery Society Declaration of Sentiments"](https://teachingamericanhistory.org/document/declaration-of-the-national-anti-slavery-convention/) 
-- Maria Stewart, [“Religion and the Pure Principles of Morality”](https://teachingamericanhistory.org/document/religion-and-the-pure-principles-of-morality-the-sure-foundation-on-which-we-must-build/)
-
-### Tuesday, Feb 10 
 - Frederick Douglass, ["West India Emancipation" in _Two Speeches by Frederick Douglass_](https://archive.org/details/ASPC0001937700/mode/2up)
-- Henry Highland Garnet, [“An Address to the Slaves of the United States of America" (1843)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=etas)
+### Tuesday, Feb 10 
 
 ### Thursday, Feb 12 - Debate 2
-- **Resolution**: When moral appeals are ignored, violence becomes a moral duty.
-- Counterargument Brief #2 Due Wednesday, Feb. 11 at 11:59 PM Eastern
 
 ### Tuesday, Feb 17 
-- Harriet Jacobs, _Incidents in the Life of a Slave Girl_
-  - ["V. The Trials Of Girlhood."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0009)
-  - ["X. A Perilous Passage In The Slave Girl’s Life."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0014)
-  - ["XVII. The Flight."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0021)
-  - ["XX. New Perils."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0024)
-  - ["XXI. The Loophole Of Retreat."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0025)
  
 ### Thursday, Feb 19
-- Maria Stewart, “Why Ye Sit Here and Die?” 
-- Sojourner Truth, The Narrative of Sojourner Truth, “Isabella as Mother” to “It is Often Darkest Just Before the Dawn”
 
 ### Tuesday, Feb 24 - Provost's Distinguished Visitor Book Talk with Brandon M Terry
 
 ### Thursday, Feb 26 - Debate 3
-- Resolution: Private acts of care and survival are as politically powerful as public protest.
-- Counterargument Brief #3 Due Wednesday, Feb. 25 at 11:59 PM Eastern
 
 ## Unit 2 - Nadir
 ### Tuesday, Mar 3
