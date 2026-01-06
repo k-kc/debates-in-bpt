@@ -48,7 +48,7 @@
   - ["X. A Perilous Passage In The Slave Girl’s Life."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0014)
   - ["XVII. The Flight."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0021)
   - ["XX. New Perils."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0024)
-  - [XXI. The Loophole Of Retreat.](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0025)
+  - ["XXI. The Loophole Of Retreat."](https://www.gutenberg.org/cache/epub/11030/pg11030-images.html#link2H_4_0025)
  
 ### Thursday, Feb 19
 - Maria Stewart, “Why Ye Sit Here and Die?” 
@@ -61,32 +61,32 @@
 - Counterargument Brief #3 Due Wednesday, Feb. 25 at 11:59 PM Eastern
 
 ## Unit 2 - Nadir
-### Mar 3
+### Tuesday, Mar 3
 - Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_
   - “Self-Help”
   - “The Jim Crow Car” (1891)
   - “Lynch Law and the Color Line” (1893)
   - “Lynching and the Excuse for It” (1901)
  
-### Mar 5
+### Thursday, Mar 5
 - Booker T. Washington, _Up from Slavery_(1901)
   - ["Chapter V. The Reconstruction Period"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0005)
   - ["Chapter VI. Black Race And Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X. A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV.The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
 
-### Mar 10 - SPRING BREAK NO CLASS
+### Tuesday, Mar 10 - SPRING BREAK NO CLASS
 
-### Mar 12 - SPRING BREAK NO CLASS
+### Thursday, Mar 12 - SPRING BREAK NO CLASS
 
-### Mar 17 
+### Tuesday, Mar 17 
 - W. E. B. Du Bois, _The Souls of Black Folk_ (1903)
   - ["Of Our Spiritual Strivings"]
   - ["Of the Dawn of Freedom"]
   - ["Of the Training of Black Men"]
 
 
-### Mar 19 
+### Thursday, Mar 19 
 - Anna Julia Cooper, “Womanhood: A Vital Element in the Regeneration and Progress of a Race” in A Voice from the South, (1892)
 - Ida B. Wells-Barnett, “Woman's Mission" (1885), "Our Women” (1887), “The Model Woman” (1888)
 - Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
@@ -96,23 +96,48 @@
   - ["Of Mr. Booker T. Washington"]
   - ["Of the Sorrow Songs"]
 
-### Mar 24 - Debate 4
+### Tuesday, Mar 24 - Debate 4
 Resolution: Progress for Black Americans will come through moral uplift, not protest.
 - Counterargument Brief #4 due Monday, Mar 23 at 11:59 PM
 
-### Mar 26 - NO CLASS
+### Thursday, Mar 26 - NO CLASS
 
-### Mar 31 
+### Tuesday, Mar 31 
 - W.E.B. Du Bois, “The Talented Tenth” in _The Negro Problem_ 
 - Anna Julia Cooper, “Higher Education of Women” (1892) 
 - Booker T. Washington, “Industrial Education for the Negro”
 - T. Thomas Fortune, “Chapter VI: Education -- Professional or Industrial”
 
-### Apr 2 - Debate 5 
+### Thursday, Apr 2 - Debate 5 
 Resolution: Industrial and moral training, not higher education and political agitation, offers the surest path to racial advancement
 - Counterargument Brief #5 due Wednesday, Apr 1 at 11:59 PM
 
 ## Unit 3 
+
+### Tuesday, Apr 7
+- Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
+  - “What We Believe,”
+  - “Declaration of the Rights of the Negro Peoples of the World,”
+  - “Capitalism and the State,”
+  - “The Negro, Communism, Trade, Unionism and His Friend”  
+
+### Thursday, Apr 9
+- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
+- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
+- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
+
+### Tuesday, Apr 14 - Debate 6
+Resolution: 
+- Counterargument Brief #6 due Monday, Apr 13 at 11:59 PM
+
+### Thursday, Apr 16
+
+
+### Tuesday, Apr 21
+
+### Thursday, Apr 23
+
+###
 
 
 
