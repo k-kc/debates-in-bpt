@@ -4,22 +4,24 @@
 ## Unit 1 - Slavery
 ### Thurday, Jan 22
 - Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
-- Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_(2003)
+- Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
 
 ### Tuesday, Jan 27 
-- Henry Louis Gates, "Introduction" to _Classic Slave Narratives_(2014) (p. 1-4)
-- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_(1855)
-- Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_
+- Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
+- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1855)
+- Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_ (1861)
 
 ### Thursday, Jan 29
-- Harriet Jacobs, "Chapter 5, 6, 7 & 10" in _Incidents in the Life of a Slave Girl_(1861)
-- Frederick Douglass, "Chapters 10, 11, 12" in _My Bondage, My Freedom_(1855)
-   - **EXTRA:** Nolan Bennett, “To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
+- Harriet Jacobs, "Chapter 5, 6, 7 & 10" in _Incidents in the Life of a Slave Girl_ (1861)
+   - Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
+- Frederick Douglass, "Chapters 10, 11, 12" in _My Bondage, My Freedom_ (1855)
+   - Nolan Bennett, “To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
 
 ### Tuesday, Feb 3 
-- Frederick Douglass, "Chapter 20, 21, 22" in _My Bondage, My Freedom_(1855)
-- Harriet Jacobs, "Chapter 15, 17, 19, 21" in _Incidents in the Life of A Slave Girl_(1861) 
-   - **EXTRA:** Georgia Kreiger, “Playing Dead: Harriet Jacobs’s Survival Strategy in ‘Incidents in the Life of a Slave Girl" (2008) 
+- Harriet Jacobs, "Chapter 15, 17, 19, 21" in _Incidents in the Life of A Slave Girl_ (1861) 
+   - Georgia Kreiger, “Playing Dead: Harriet Jacobs’s Survival Strategy in ‘Incidents in the Life of a Slave Girl" (2008) 
+- Frederick Douglass, "Chapter 20, 21, 22" in _My Bondage, My Freedom_ (1855)
+   - Bernard Boxill, "The Fight with Covey" in _Existence in Black_
 
 ### Thursday, Feb 5 
 
