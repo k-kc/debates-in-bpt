@@ -3,25 +3,23 @@
 
 ## Unit 1 - Slavery
 ### Thurday, Jan 22
-Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
-Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_(2003)
+- Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
+- Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_(2003)
 
-### Tuesday, Jan 27 
+### Tuesday, Jan 27 - Testimony
+- Henry Louis Gates, "Introduction" to _Classic Slave Narratives_(2014) (p. 1-4)
+- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_(1855)
+- Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_
+
 ### Thursday, Jan 29
--  Frederick Douglass, _Speeches, Debates, and Interviews Volume 2: 1847-1854_
-   - [“The Free Negro’s Place in America” (1851)](https://frederickdouglasspapersproject.com/s/digitaledition/item/15968)
-   - ["A Nation in the Midst of a Nation" (1853)](https://frederickdouglasspapersproject.com/s/digitaledition/item/10004)
-- Martin Delany, _Condition, Elevation, Emigration and Destiny of the Colored People of the United States_(1852)
-    - ["I. Condition of Many Classes in Europe Considered"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#I)
-    - ["II. Comparative Condition of the Colored People of the United States"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#II)
-    - ["VI. The United States Our Country"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#VI)
-    - ["XVI. National Disenfranchisement of Colored People"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#XVI)
-    - ["XVII. Emigration of the Colored People of the United States"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#XVII)
-    - ["XXII. Things As They Are"](https://www.gutenberg.org/files/17154/17154-h/17154-h.htm#XXII)
+- Harriet Jacobs, "Chapter 5, 6, 7 & 10" in _Incidents in the Life of a Slave Girl_(1861)
+- Frederick Douglass, "Chapters 10, 11, 12" in _My Bondage, My Freedom_(1855)
+   - **EXTRA:** Nolan Bennett, “To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
 
-### Tuesday, Feb 3 - Debate 1 
-- **Resolution**: The destiny of the Colored People lies beyond the borders of the United States. 
-- Counterargument Brief #1 Due Monday, February 2 at 11:59 PM Eastern
+### Tuesday, Feb 3 
+- Frederick Douglass, "Chapter 20, 21, 22" in _My Bondage, My Freedom_(1855)
+- Harriet Jacobs, "Chapter 15, 17, 19, 21" in _Incidents in the Life of A Slave Girl_(1861) 
+   - **EXTRA:** Georgia Kreiger, “Playing Dead: Harriet Jacobs’s Survival Strategy in ‘Incidents in the Life of a Slave Girl" (2008) 
 
 ### Thursday, Feb 5 
 
