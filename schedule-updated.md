@@ -28,8 +28,9 @@
    - Tiya Miles, "Preface: The Storm" and "Chapter 5 - The Flight" in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_(2024)
    - Kellie Carter Jackson, "Proteection," in _We Refuse: A Foreceful History of Black Resistance_ (2018) 
 
-### Tuesday, Feb 10 - Checkpoint Discussion
-- Prep Memo due Sunday, Feb 8 at Midnight
+### Unit 1 Checkpoint: Prep Memo & Thinking Seminar
+- Sunday, Feb 8 at 11:59 PM: Prep Memo Due
+- Tuesday, Feb 10: In-class Discussion Assessment
   
 Unit 2 - 
 ### Thursday, Feb 12 - Debate 2
