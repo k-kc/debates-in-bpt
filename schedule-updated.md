@@ -8,7 +8,7 @@
 ## Unit 1 - Slavery & Resistance
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
-- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1855)
+- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1845)
 - Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_ (1861)
 
 ### Thursday, Jan 29
