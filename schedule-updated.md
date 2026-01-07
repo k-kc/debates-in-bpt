@@ -1,11 +1,11 @@
 # Course Schedule
 ### Tuesday, Jan 20 - Welcome & Introductions
 
-## Unit 1 - Slavery & Testimony of "The Property"
 ### Thurday, Jan 22
-- Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
+- Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003)
 - Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
 
+## Unit 1 - Slavery & Resisting of "The Property"
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
 - Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1855)
@@ -22,14 +22,16 @@
    - Georgia Kreiger, “Playing Dead: Harriet Jacobs’s Survival Strategy in ‘Incidents in the Life of a Slave Girl" (2008) 
 - Frederick Douglass, "Chapter 20, 21, 22" in _My Bondage, My Freedom_ (1855)
    - Bernard Boxill, "The Fight with Covey" in _Existence in Black_
-
+ 
 ### Thursday, Feb 5 
-- Douglass, "What to the Slave is the Fourth of July?"
-   - Toni Morrison, "Romancing the Shadow" in _Playing in the Dark_ (1991)
+- Sarah Hopkins Bradford,_ Harriet Tubman: The Moses of Her People_ (1886) pg. 13-33
+   - Tiya Miles, "Preface: The Storm" and "Chapter 5 - The Flight" in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_(2024)
+   - Kellie Carter Jackson, "Proteection," in _We Refuse: A Foreceful History of Black Resistance_ (2018) 
 
+### Tuesday, Feb 10 - Checkpoint Discussion
+- Prep Memo due Sunday, Feb 8 at Midnight
+  
 Unit 2 - 
-### Tuesday, Feb 10 
-
 ### Thursday, Feb 12 - Debate 2
 
 ### Tuesday, Feb 17 
