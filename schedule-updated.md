@@ -5,7 +5,7 @@
 - Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003)
 - Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
 
-## Unit 1 - Slavery & Resisting of "The Property"
+## Unit 1 - Slavery & Resistance
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
 - Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1855)
