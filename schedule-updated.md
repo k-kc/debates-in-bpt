@@ -5,7 +5,7 @@
 - Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003)
 - Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
 
-## Unit 1 - Slavery & Resistance
+## Unit 1 - Slavery 
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
 - Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1845)
@@ -32,7 +32,7 @@
 - Sunday, Feb 8 at 11:59 PM: Prep Memo Due
 - Tuesday, Feb 10: In-class Discussion Assessment
   
-## Unit 2 - 
+## Unit 2 - Segregation
 ### Thursday, Feb 12 - Debate 2
 
 ### Tuesday, Feb 17 
@@ -43,7 +43,7 @@
 
 ### Thursday, Feb 26 - Debate 3
 
-## Unit 2 - Nadir
+
 ### Tuesday, Mar 3
 - Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_
   - “Self-Help”
