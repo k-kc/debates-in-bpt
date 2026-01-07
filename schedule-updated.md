@@ -32,7 +32,7 @@
 - Sunday, Feb 8 at 11:59 PM: Prep Memo Due
 - Tuesday, Feb 10: In-class Discussion Assessment
   
-Unit 2 - 
+## Unit 2 - 
 ### Thursday, Feb 12 - Debate 2
 
 ### Tuesday, Feb 17 
