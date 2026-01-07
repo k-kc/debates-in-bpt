@@ -1,7 +1,7 @@
 # Course Schedule
 ### Tuesday, Jan 20 - Welcome & Introductions
 
-## Unit 1 - Slavery
+## Unit 1 - Slavery & Testimony of "The Property"
 ### Thurday, Jan 22
 - Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
 - Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
@@ -24,7 +24,10 @@
    - Bernard Boxill, "The Fight with Covey" in _Existence in Black_
 
 ### Thursday, Feb 5 
+- Douglass, "What to the Slave is the Fourth of July?"
+   - Toni Morrison, "Romancing the Shadow" in _Playing in the Dark_ (1991)
 
+Unit 2 - 
 ### Tuesday, Feb 10 
 
 ### Thursday, Feb 12 - Debate 2
