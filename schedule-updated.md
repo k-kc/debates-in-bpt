@@ -2,14 +2,11 @@
 ### Tuesday, Jan 20 - Welcome & Introductions
 
 ## Unit 1 - Slavery
-### Thurday, Jan 22 - Close Reading 
-- David Walker, _Appeal to the Coloured Citizens of the World_(1829) 
-  - ["Preamble'](https://archive.org/details/walkersappealinf1829walk/page/n1/mode/2up)
-  - ["Article 1 - Our Wretchedness in Consequence of Slavery"](https://archive.org/details/walkersappealinf1829walk/page/8/mode/2up)
+### Thurday, Jan 22
+Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003) 
+Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_(2003)
 
- ### Tuesday, Jan 27 - Bondage, Fugitivity, and Freedom
--  Mary Ann Shadd, "Introductory Remarks" in _A Plea for Emigration_(1852)
-
+### Tuesday, Jan 27 
 ### Thursday, Jan 29
 -  Frederick Douglass, _Speeches, Debates, and Interviews Volume 2: 1847-1854_
    - [“The Free Negro’s Place in America” (1851)](https://frederickdouglasspapersproject.com/s/digitaledition/item/15968)
@@ -26,9 +23,8 @@
 - **Resolution**: The destiny of the Colored People lies beyond the borders of the United States. 
 - Counterargument Brief #1 Due Monday, February 2 at 11:59 PM Eastern
 
-
 ### Thursday, Feb 5 
-- Frederick Douglass, ["West India Emancipation" in _Two Speeches by Frederick Douglass_](https://archive.org/details/ASPC0001937700/mode/2up)
+
 ### Tuesday, Feb 10 
 
 ### Thursday, Feb 12 - Debate 2
