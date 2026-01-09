@@ -32,10 +32,19 @@
 - Sunday, Feb 8 at 11:59 PM: Prep Memo Due
 - Tuesday, Feb 10: In-class Discussion Assessment
   
-## Unit 2 - Segregation
-### Thursday, Feb 12 - Debate 2
+## Unit 2 - The Emergence of "a People"
+### Thursday, Feb 12
+- Eric Foner, _A Short History of Reconstruction_ (2014)
+   - Chapter 3. The Meaning of Freedom
+   - Epilogue: "The River Has Its Bend"
+- Frederick Douglass, ["The Negro Problem (1890"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) 
 
-### Tuesday, Feb 17 
+### Tuesday, Feb 17
+- Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_ (1892)
+  - ["The Offense"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_OFFENSE)
+  - ["The New Cry"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_NEW_CRY)
+  - ["The South's Position"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_SOUTHS_POSITION)
+  - ["Self-Help"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#SELF_HELP)
  
 ### Thursday, Feb 19
 
@@ -45,11 +54,7 @@
 
 
 ### Tuesday, Mar 3
-- Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_
-  - “Self-Help”
-  - “The Jim Crow Car” (1891)
-  - “Lynch Law and the Color Line” (1893)
-  - “Lynching and the Excuse for It” (1901)
+
  
 ### Thursday, Mar 5
 - Booker T. Washington, _Up from Slavery_(1901)
