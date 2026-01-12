@@ -37,7 +37,8 @@
 - Eric Foner, _A Short History of Reconstruction_ (2014)
    - Chapter 3. The Meaning of Freedom
    - Epilogue: "The River Has Its Bend"
-- Frederick Douglass, ["The Negro Problem (1890"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) 
+- Frederick Douglass, ["The Negro Problem (1890)"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) 
+- Ta-Nehisi Coates, "Introduction" in _We Were Eight Years in Power_(2017)
 
 ### Tuesday, Feb 17
 - Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_ (1892)
@@ -45,6 +46,7 @@
   - ["The New Cry"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_NEW_CRY)
   - ["The South's Position"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_SOUTHS_POSITION)
   - ["Self-Help"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#SELF_HELP)
+ - Michelle Duster, ["Excerpts"](https://www.pulitzer.org/article/excerpt-ida-b-queen) from _Ida B. the Queen: The Extraordinary Life and Legacy of Ida B. Wells_(2021)
  
 ### Thursday, Feb 19
 - Booker T. Washington, _Up from Slavery_(1901)
