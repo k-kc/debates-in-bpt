@@ -3,8 +3,8 @@
 
 ### Thurday, Jan 22
 - Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003)
-- Angela Y. Davis, "Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison" in _Are Prisons Obsolete?_ (2003)
-
+- David Walker, _Appeal_ (1829) "Preface" and "Chapter 1 - Our Wretchedness in Consequence of Slavery"
+  
 ## Unit 1 - Slavery 
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
@@ -47,31 +47,38 @@
   - ["Self-Help"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#SELF_HELP)
  
 ### Thursday, Feb 19
-
-### Tuesday, Feb 24 - Provost's Distinguished Visitor Book Talk with Brandon M Terry
-
-### Thursday, Feb 26 - Debate 3
-
-
-### Tuesday, Mar 3
-
- 
-### Thursday, Mar 5
 - Booker T. Washington, _Up from Slavery_(1901)
   - ["Chapter V. The Reconstruction Period"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0005)
   - ["Chapter VI. Black Race And Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X. A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV.The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
 
-### Tuesday, Mar 10 - SPRING BREAK NO CLASS
+### Tuesday, Feb 24 - Provost's Distinguished Visitor Book Talk with Brandon M Terry
 
-### Thursday, Mar 12 - SPRING BREAK NO CLASS
-
-### Tuesday, Mar 17 
+### Thursday, Feb 26 - Debate 3
 - W. E. B. Du Bois, _The Souls of Black Folk_ (1903)
   - ["Of Our Spiritual Strivings"]
   - ["Of the Dawn of Freedom"]
   - ["Of the Training of Black Men"]
+
+### Tuesday, Mar 3
+- W.E.B. Du Bois, [“The Talented Tenth”](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903) 
+- Anna Julia Cooper, [“Higher Education of Women”](https://dh.howard.edu/cgi/viewcontent.cgi?article=1027&context=ajc_published) (1892) 
+- Booker T. Washington, [“Industrial Education for the Negro”](https://archive.org/details/negroproblemseri00wash/page/n14/mode/1up) in _The Negro Problem_ (1903)
+ 
+### Thursday, Mar 5
+- Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
+- 
+
+### Tuesday, Mar 10 - SPRING BREAK NO CLASS
+- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
+- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
+- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
+
+### Thursday, Mar 12 - SPRING BREAK NO CLASS
+
+### Tuesday, Mar 17 
+
 
 
 ### Thursday, Mar 19 
@@ -85,34 +92,22 @@
   - ["Of the Sorrow Songs"]
 
 ### Tuesday, Mar 24 - Debate 4
-Resolution: Progress for Black Americans will come through moral uplift, not protest.
-- Counterargument Brief #4 due Monday, Mar 23 at 11:59 PM
+
 
 ### Thursday, Mar 26 - NO CLASS
 
 ### Tuesday, Mar 31 
-- W.E.B. Du Bois, “The Talented Tenth” in _The Negro Problem_ 
-- Anna Julia Cooper, “Higher Education of Women” (1892) 
-- Booker T. Washington, “Industrial Education for the Negro”
-- T. Thomas Fortune, “Chapter VI: Education -- Professional or Industrial”
 
 ### Thursday, Apr 2 - Debate 5 
-Resolution: Industrial and moral training, not higher education and political agitation, offers the surest path to racial advancement
-- Counterargument Brief #5 due Wednesday, Apr 1 at 11:59 PM
+
 
 ## Unit 3 
 
 ### Tuesday, Apr 7
-- Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
-  - “What We Believe,”
-  - “Declaration of the Rights of the Negro Peoples of the World,”
-  - “Capitalism and the State,”
-  - “The Negro, Communism, Trade, Unionism and His Friend”  
+
 
 ### Thursday, Apr 9
-- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
-- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
-- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
+
 
 ### Tuesday, Apr 14 - Debate 6
 Resolution: 
