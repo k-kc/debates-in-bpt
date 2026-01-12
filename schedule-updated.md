@@ -24,7 +24,7 @@
    - Bernard Boxill, "The Fight with Covey" in _Existence in Black_
  
 ### Thursday, Feb 5 
-- Sarah Hopkins Bradford,_ Harriet Tubman: The Moses of Her People_ (1886) pg. 13-33
+- Sarah Hopkins Bradford, _Harriet Tubman: The Moses of Her People_ (1886) pg. 13-33
    - Tiya Miles, "Preface: The Storm" and "Chapter 5 - The Flight" in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_(2024)
    - Kellie Carter Jackson, "Proteection," in _We Refuse: A Foreceful History of Black Resistance_ (2018) 
 
@@ -68,8 +68,10 @@
  
 ### Thursday, Mar 5
 - Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
-- 
-
+  - "What We Believe"
+  - "An Appeal to the Conscience of the Black Race to See Itself"
+  - "Declaration of the Rights of the Negro Peoples of the World"
+- Adom Getachew, “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding" (2021)
 ### Tuesday, Mar 10 - SPRING BREAK NO CLASS
 - W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
 - Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
