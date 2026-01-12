@@ -60,6 +60,7 @@
   - ["Of Our Spiritual Strivings"]
   - ["Of the Dawn of Freedom"]
   - ["Of the Training of Black Men"]
+  - ["Of the Sorrow Songs"]
 
 ### Tuesday, Mar 3
 - W.E.B. Du Bois, [“The Talented Tenth”](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903) 
@@ -91,7 +92,7 @@
   - “Substance vs. Shadow”  
 - W. E. B. Du Bois, _Souls_(1903)
   - ["Of Mr. Booker T. Washington"]
-  - ["Of the Sorrow Songs"]
+
 
 ### Tuesday, Mar 24 - Debate 4
 
