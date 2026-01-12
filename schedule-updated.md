@@ -54,6 +54,9 @@
   - ["Chapter VI. Black Race And Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X. A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV.The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
+ - Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
+  - “Individual Responsibility”
+  - “Substance vs. Shadow” 
 
 ### Tuesday, Feb 24 - Provost's Distinguished Visitor Book Talk with Brandon M Terry
 
@@ -61,13 +64,16 @@
 - W. E. B. Du Bois, _The Souls of Black Folk_ (1903)
   - ["Of Our Spiritual Strivings"]
   - ["Of the Dawn of Freedom"]
+  - ["Of Mr. Booker T. Washington"]
   - ["Of the Training of Black Men"]
   - ["Of the Sorrow Songs"]
+- Joshua Meyers, "Of Hesistance - W.E.B. Du Bois" in _Of Black Study_(2022) 
 
 ### Tuesday, Mar 3
 - W.E.B. Du Bois, [“The Talented Tenth”](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903) 
 - Anna Julia Cooper, [“Higher Education of Women”](https://dh.howard.edu/cgi/viewcontent.cgi?article=1027&context=ajc_published) (1892) 
 - Booker T. Washington, [“Industrial Education for the Negro”](https://archive.org/details/negroproblemseri00wash/page/n14/mode/1up) in _The Negro Problem_ (1903)
+- Barack Obama, ["Morehouse College Commencement Address"](https://www.youtube.com/watch?v=e50Tt9qJRQk) (2013)
  
 ### Thursday, Mar 5
 - Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
@@ -75,27 +81,20 @@
   - "An Appeal to the Conscience of the Black Race to See Itself"
   - "Declaration of the Rights of the Negro Peoples of the World"
 - Adom Getachew, “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding" (2021)
+
 ### Tuesday, Mar 10 - SPRING BREAK NO CLASS
-- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
-- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
-- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
 
 ### Thursday, Mar 12 - SPRING BREAK NO CLASS
 
 ### Tuesday, Mar 17 
-
-
+- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
+- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
+- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
 
 ### Thursday, Mar 19 
-- Anna Julia Cooper, “Womanhood: A Vital Element in the Regeneration and Progress of a Race” in A Voice from the South, (1892)
-- Ida B. Wells-Barnett, “Woman's Mission" (1885), "Our Women” (1887), “The Model Woman” (1888)
-- Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
-  - “Individual Responsibility”
-  - “Substance vs. Shadow”  
-- W. E. B. Du Bois, _Souls_(1903)
-  - ["Of Mr. Booker T. Washington"]
-
-
+- Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)*
+- Desmond King and Rogers Smith, “Racial Orders in American Political Development" (2005)
+  
 ### Tuesday, Mar 24 - Debate 4
 
 
