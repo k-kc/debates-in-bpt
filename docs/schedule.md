@@ -10,8 +10,8 @@ layout: default
 ## Unit 1: Slavery
 ### Tuesday, January 27
 - Henry Louis Gates, ["Introduction"](assets/gates-classic-slave-narratives.pdf) to _Classic Slave Narratives_ (2014)
-- Frederick Douglass, "Chapter 1," _Narrative of the Life of Frederick Douglass_ (1845)
-- Harriet Jacobs, "Chapter 1," _Incidents in the Life of a Slave Girl_ (1861)
+- Frederick Douglass, ["Chapter 1,"](https://archive.org/details/narrativeoflifeo1846doug/page/n23/mode/2up) _Narrative of the Life of Frederick Douglass_ (1845)
+- Harriet Jacobs, ["Chapter 1,"](https://archive.org/details/incidentsinlifeo1861jaco/page/10/mode/2up) _Incidents in the Life of a Slave Girl_ (1861)
 
 ### Thursday, January 29
 - Harriet Jacobs, "Chapters 5, 6, 7, 10," _Incidents in the Life of a Slave Girl_ (1861)
