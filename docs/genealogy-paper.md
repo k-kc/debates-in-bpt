@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# : Unit 2 Checkpoint: Genealogy Paper
+# Unit 2 Checkpoint: Genealogy Paper
 
 ## Assignment Overview
 
@@ -37,7 +37,7 @@ Your paper should address all of the following:
 
 - **Length:** 4–5 pages
 - **Format:** Chicago 
-- **Due Date:** Monday, March 16
+- **Due Date:** Monday, March 16 at 11:59 PM
 
 ---
 
