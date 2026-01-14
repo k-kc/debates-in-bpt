@@ -15,20 +15,20 @@ layout: default
 
 ### Thursday, January 29
 - Harriet Jacobs, "Chapters 5, 6, 7, 10," _Incidents in the Life of a Slave Girl_ (1861)
-- Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
+  - Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
 - Frederick Douglass, "Chapters 10, 11, 12," _My Bondage, My Freedom_ (1855)
-- Nolan Bennett, "To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
+  - Nolan Bennett, "To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
 
 ### Tuesday, February 3
 - Harriet Jacobs, "Chapters 15, 17, 19, 21," _Incidents in the Life of a Slave Girl_ (1861)
-- Georgia Kreiger, "Playing Dead: Harriet Jacobs's Survival Strategy in _Incidents in the Life of a Slave Girl_" (2008)
+  - Georgia Kreiger, "Playing Dead: Harriet Jacobs's Survival Strategy in _Incidents in the Life of a Slave Girl_" (2008)
 - Frederick Douglass, "Chapters 20, 21, 22," _My Bondage, My Freedom_ (1855)
-- Bernard Boxill, "The Fight with Covey," in _Existence in Black_
+  - Bernard Boxill, "The Fight with Covey," in _Existence in Black_
 
 ### Thursday, February 5
 - Sarah Hopkins Bradford, _Harriet Tubman: The Moses of Her People_ (1886), p. 13–33
-- Tiya Miles, "Preface: The Storm" and "Chapter 5: The Flight," in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_ (2024)
-- Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
+  - Tiya Miles, "Preface: The Storm" and "Chapter 5: The Flight," in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_ (2024)
+  - Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
 
 ### Unit 1 Checkpoint
 - **Sunday, February 8 at 11:59 PM:** Prep Memo due
