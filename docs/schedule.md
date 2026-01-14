@@ -1,159 +1,170 @@
+---
+layout: default
+---
+
 # Course Schedule
-### Tuesday, Jan 20 - Welcome & Introductions
 
-### Thurday, Jan 22
-- Cornel West, Excerpts from "Philosophy and the Afro-American Experience," (2003)
-- David Walker, _Appeal_ (1829) "Preface" and "Chapter 1 - Our Wretchedness in Consequence of Slavery"
-  
-## Unit 1 - Slavery 
-### Tuesday, Jan 27 
-- Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
-- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1845)
-- Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_ (1861)
+## Unit 1: Slavery
 
-### Thursday, Jan 29
-- Harriet Jacobs, "Chapter 5, 6, 7 & 10" in _Incidents in the Life of a Slave Girl_ (1861)
-   - Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
-- Frederick Douglass, "Chapters 10, 11, 12" in _My Bondage, My Freedom_ (1855)
-   - Nolan Bennett, “To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
+### Tuesday, January 27
+- Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014), p. 1–4
+- Frederick Douglass, "Chapter 1," _Narrative of the Life of Frederick Douglass_ (1845)
+- Harriet Jacobs, "Chapter 1," _Incidents in the Life of a Slave Girl_ (1861)
 
-### Tuesday, Feb 3 
-- Harriet Jacobs, "Chapter 15, 17, 19, 21" in _Incidents in the Life of A Slave Girl_ (1861) 
-   - Georgia Kreiger, “Playing Dead: Harriet Jacobs’s Survival Strategy in ‘Incidents in the Life of a Slave Girl" (2008) 
-- Frederick Douglass, "Chapter 20, 21, 22" in _My Bondage, My Freedom_ (1855)
-   - Bernard Boxill, "The Fight with Covey" in _Existence in Black_
- 
-### Thursday, Feb 5 
-- Sarah Hopkins Bradford, _Harriet Tubman: The Moses of Her People_ (1886) pg. 13-33
-   - Tiya Miles, "Preface: The Storm" and "Chapter 5 - The Flight" in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_(2024)
-   - Kellie Carter Jackson, "Proteection," in _We Refuse: A Foreceful History of Black Resistance_ (2018) 
+### Thursday, January 29
+- Harriet Jacobs, "Chapters 5, 6, 7, 10," _Incidents in the Life of a Slave Girl_ (1861)
+- Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
+- Frederick Douglass, "Chapters 10, 11, 12," _My Bondage, My Freedom_ (1855)
+- Nolan Bennett, "To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
 
-### Unit 1 Checkpoint: Prep Memo & Thinking Seminar
-- Sunday, Feb 8 at 11:59 PM: Prep Memo Due
-- Tuesday, Feb 10: In-class Discussion Assessment
-  
-## Unit 2 - The Emergence of "a People"
-### Thursday, Feb 12
+### Tuesday, February 3
+- Harriet Jacobs, "Chapters 15, 17, 19, 21," _Incidents in the Life of a Slave Girl_ (1861)
+- Georgia Kreiger, "Playing Dead: Harriet Jacobs's Survival Strategy in _Incidents in the Life of a Slave Girl_" (2008)
+- Frederick Douglass, "Chapters 20, 21, 22," _My Bondage, My Freedom_ (1855)
+- Bernard Boxill, "The Fight with Covey," in _Existence in Black_
+
+### Thursday, February 5
+- Sarah Hopkins Bradford, _Harriet Tubman: The Moses of Her People_ (1886), p. 13–33
+- Tiya Miles, "Preface: The Storm" and "Chapter 5: The Flight," in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_ (2024)
+- Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
+
+### Unit 1 Checkpoint
+- **Sunday, February 8 at 11:59 PM:** Prep Memo due
+- **Tuesday, February 10:** In-class discussion assessment
+
+---
+
+## Unit 2: The Emergence of "a People"
+
+### Thursday, February 12
 - Eric Foner, _A Short History of Reconstruction_ (2014)
-   - Chapter 3. The Meaning of Freedom
-   - Epilogue: "The River Has Its Bend"
-- Frederick Douglass, ["The Negro Problem (1890)"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) 
-- Ta-Nehisi Coates, "Introduction" in _We Were Eight Years in Power_(2017)
+  - Chapter 3: The Meaning of Freedom
+  - Epilogue: "The River Has Its Bend"
+- Frederick Douglass, ["The Negro Problem"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) (1890)
+- Ta-Nehisi Coates, "Introduction," in _We Were Eight Years in Power_ (2017)
 
-### Tuesday, Feb 17
+### Tuesday, February 17
 - Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_ (1892)
   - ["The Offense"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_OFFENSE)
   - ["The New Cry"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_NEW_CRY)
   - ["The South's Position"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_SOUTHS_POSITION)
   - ["Self-Help"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#SELF_HELP)
- - Michelle Duster, ["Excerpts"](https://www.pulitzer.org/article/excerpt-ida-b-queen) from _Ida B. the Queen: The Extraordinary Life and Legacy of Ida B. Wells_(2021)
- 
-### Thursday, Feb 19
-- Booker T. Washington, _Up from Slavery_(1901)
-  - ["Chapter V. The Reconstruction Period"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0005)
-  - ["Chapter VI. Black Race And Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
-  - ["Chapter X. A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
-  - ["Chapter XIV.The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
- - Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
-  - “Individual Responsibility”
-  - “Substance vs. Shadow” 
+- Michelle Duster, ["Excerpts,"](https://www.pulitzer.org/article/excerpt-ida-b-queen) from _Ida B. the Queen: The Extraordinary Life and Legacy of Ida B. Wells_ (2021)
 
-### Tuesday, Feb 24 - Provost's Distinguished Visitor Book Talk with Brandon M Terry
+### Thursday, February 19
+- Booker T. Washington, _Up from Slavery_ (1901)
+  - ["Chapter V: The Reconstruction Period"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0005)
+  - ["Chapter VI: Black Race and Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
+  - ["Chapter X: A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
+  - ["Chapter XIV: The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
+- Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
+  - "Individual Responsibility"
+  - "Substance vs. Shadow"
 
-### Thursday, Feb 26 - Debate 3
-- W. E. B. Du Bois, _The Souls of Black Folk_ (1903)
-  - ["Of Our Spiritual Strivings"]
-  - ["Of the Dawn of Freedom"]
-  - ["Of Mr. Booker T. Washington"]
-  - ["Of the Training of Black Men"]
-  - ["Of the Sorrow Songs"]
-- Joshua Meyers, "Of Hesistance - W.E.B. Du Bois" in _Of Black Study_(2022) 
+### Tuesday, February 24
+**Provost's Distinguished Visitor Book Talk with Brandon M. Terry** (No regular readings)
 
-### Tuesday, Mar 3
-- W.E.B. Du Bois, [“The Talented Tenth”](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903) 
-- Anna Julia Cooper, [“Higher Education of Women”](https://dh.howard.edu/cgi/viewcontent.cgi?article=1027&context=ajc_published) (1892) 
-- Booker T. Washington, [“Industrial Education for the Negro”](https://archive.org/details/negroproblemseri00wash/page/n14/mode/1up) in _The Negro Problem_ (1903)
+### Thursday, February 26
+- W.E.B. Du Bois, _The Souls of Black Folk_ (1903)
+  - "Of Our Spiritual Strivings"
+  - "Of the Dawn of Freedom"
+  - "Of Mr. Booker T. Washington"
+  - "Of the Training of Black Men"
+  - "Of the Sorrow Songs"
+- Joshua Meyers, "Of Hesitance: W.E.B. Du Bois," in _Of Black Study_ (2022)
+
+### Tuesday, March 3
+- W.E.B. Du Bois, ["The Talented Tenth,"](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903)
+- Anna Julia Cooper, ["Higher Education of Women"](https://dh.howard.edu/cgi/viewcontent.cgi?article=1027&context=ajc_published) (1892)
+- Booker T. Washington, ["Industrial Education for the Negro,"](https://archive.org/details/negroproblemseri00wash/page/n14/mode/1up) in _The Negro Problem_ (1903)
 - Barack Obama, ["Morehouse College Commencement Address"](https://www.youtube.com/watch?v=e50Tt9qJRQk) (2013)
- 
-### Thursday, Mar 5
+
+### Thursday, March 5
 - Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
   - "What We Believe"
   - "An Appeal to the Conscience of the Black Race to See Itself"
   - "Declaration of the Rights of the Negro Peoples of the World"
-- Adom Getachew, “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding" (2021)
+- Adom Getachew, "The Common Spectacle of the Race: Garveyism's Visual Politics of Founding" (2021)
 
-### Unit 2 Checkpoint: Geneaology Paper Due Monday, March 16
+### Unit 2 Checkpoint
+- **Monday, March 16:** Genealogy paper due
 
-## Unit 3 - The Dawn of Mass Struggle 
-### Tuesday, Mar 17 
-W. E. B. Du Bois, _Darkwater_(1920)
-- ["The Souls of White Folk"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_II)
-- ["The Hands of Ethiopia"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_III)
-- ["Of the Ruling of Men"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_VI)
+---
 
-### Thursday, Mar 19 
+## Unit 3: The Dawn of Mass Struggle
+
+### Tuesday, March 17
+- W.E.B. Du Bois, _Darkwater_ (1920)
+  - ["The Souls of White Folk"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_II)
+  - ["The Hands of Ethiopia"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_III)
+  - ["Of the Ruling of Men"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_VI)
+
+### Thursday, March 19
 - Thurgood Marshall, ["Negro Discrimination and the Need for Federal Action"](https://archive.org/details/thurgoodmarshall0000mars/page/78/mode/2up)
-- Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)
-- Desmond King and Rogers Smith, “Racial Orders in American Political Development" (2005)
+- Thurgood Marshall, "The Legal Attack to Secure Civil Rights" (Speech at the NAACP Wartime Conference, 1944)
+- Desmond King and Rogers Smith, "Racial Orders in American Political Development" (2005)
 - Megan Ming Francis, "Rethinking Civil Rights and American Political Development" (2014)
-  
-### Tuesday, Mar 24 
-- Barbara Ransby, _Ella Baker and the Black Freedom Movement_(2003)
+
+### Tuesday, March 24
+- Barbara Ransby, _Ella Baker and the Black Freedom Movement_ (2003)
   - "The Preacher and the Organizer"
   - "The Empowerment of Indigenous Southern Black Leadership"
-- Alicia Garza, "New Movements, New Leadership," in ["_The Purpose of Power_(2020)"](https://gendersexuality.northwestern.edu/documents/alicia-garza---the-purpose-of-power---2020.pdf)
+- Alicia Garza, "New Movements, New Leadership," in _The Purpose of Power_ (2020)
 
-### Thursday, Mar 26 - NO CLASS
+### Thursday, March 26
+**No class**
 
-### Tuesday, Mar 31 
-- Martin Luther King Jr, _A Testament of Hope_(1986)
-  - “Nonviolence and Racial Justice”
-  - “The Ethical Demands for Integration”
-  - “Give Us the Ballot—We Will Transform the South”
-  - “I Have a Dream”
-  - “Letter from a Birmingham City Jail”
+### Tuesday, March 31
+- Martin Luther King Jr., _A Testament of Hope_ (1986)
+  - "Nonviolence and Racial Justice"
+  - "The Ethical Demands for Integration"
+  - "Give Us the Ballot—We Will Transform the South"
+  - "I Have a Dream"
+  - "Letter from a Birmingham City Jail"
 - Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
-### Thursday, Apr 2 
-- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/)(1963) and ["The Ballot or the BUllet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/)(1964)
-  - Audre Lorde, "What We Learned from the 60s" in _Sister Outsider_(1984)
+### Thursday, April 2
+- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/) (1963) and ["The Ballot or the Bullet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/) (1964)
+- Audre Lorde, "What We Learned from the 60s," in _Sister Outsider_ (1984)
 
-### Tuesday, Apr 7
-- Bayard Rustin, “From Protest to Politics” (1964)
-- Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
-- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067)(2020)
+### Tuesday, April 7
+- Bayard Rustin, "From Protest to Politics" (1964)
+- Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past" (2009)
+- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
-### Unit 3 Checkpoint: Prep Memo & Thinking Seminar 
-- James Baldwin, ["Letter from a Region of My Mind"](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind)(1962)
-- Wednesday, Apr 8 at 11:59 PM: Prep Memo Due
-- Thursday, Apr 9: In-class Discussion Assessment
+### Unit 3 Checkpoint
+- James Baldwin, ["Letter from a Region of My Mind"](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind) (1962)
+- **Wednesday, April 8 at 11:59 PM:** Prep memo due
+- **Thursday, April 9:** In-class discussion assessment
 
-## Unit 4 - Black Power & Its Afterlives 
-### Tuesday, Apr 14 
-- Jean-Paul Satre, ["Preface" to _Wretched of the Earth_(1961)"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) (p. 7-12)
-- Franz Fanon, "Concerning Violence" in ["_Wretched of the Earth_(1961)"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) p. 37-45
-- Amiri Baraka, ["Black Art" (1966)](https://www.youtube.com/watch?v=Q5zmgGtkDHU)
-  
-### Thursday, Apr 16
-- Stokley Carmichael and Charles V. Hamilton's ["_Black Power: The Politics of Liberation_(1967)"](https://teachingamericanhistory.org/document/black-power/)
-  - Chapter 1. White Power: The Colonial Situation
-  - Chapter 2. Black Power: It's Need and Its Substance 
+---
 
-### Tuesday, Apr 21
-- Huey P. Newton,
-  - “In Defense of Self Defense”
-  - “Functional Definition of Politics”
-  - “The Correct Handling of a Revolution”
-- Angela Y. Davis, "Political Prisoners, Prisons, and Black Liberation” in _If They Come in the Morning..._ 
-- Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson)(2017)
+## Unit 4: Black Power & Its Afterlives
 
-### Thursday, Apr 23
-- The Combahee River Collective, “A Black Feminist Statement” (1979)
-- Audre Lorde, “Uses of the Erotic,” in _Sister Outsider_(1984)
-- bell hooks, "Mama Love" in _Salvation: Black People and Love_(2004)
+### Tuesday, April 14
+- Jean-Paul Sartre, ["Preface,"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) in _Wretched of the Earth_ (1961), p. 7–12
+- Franz Fanon, ["Concerning Violence,"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) in _Wretched of the Earth_ (1961), p. 37–45
+- Amiri Baraka, ["Black Art"](https://www.youtube.com/watch?v=Q5zmgGtkDHU) (1966)
 
-### Tuesday, Apr 28
-- Angela Y. Davis, ["_Are Prisons Obsolete?_(2003)"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
-  - Introduction: Prison Reform or Prison Abolition?
-  - Chapter 2. Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison
+### Thursday, April 16
+- Stokley Carmichael and Charles V. Hamilton, _Black Power: The Politics of Liberation_ (1967)
+  - ["Chapter 1: White Power: The Colonial Situation"](https://teachingamericanhistory.org/document/black-power/)
+  - ["Chapter 2: Black Power: Its Need and Its Substance"](https://teachingamericanhistory.org/document/black-power/)
 
+### Tuesday, April 21
+- Huey P. Newton
+  - "In Defense of Self Defense"
+  - "Functional Definition of Politics"
+  - "The Correct Handling of a Revolution"
+- Angela Y. Davis, "Political Prisoners, Prisons, and Black Liberation," in _If They Come in the Morning..._ (1971)
+- Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) (2017)
+
+### Thursday, April 23
+- The Combahee River Collective, "A Black Feminist Statement" (1979)
+- Audre Lorde, "Uses of the Erotic," in _Sister Outsider_ (1984)
+- bell hooks, "Mama Love," in _Salvation: Black People and Love_ (2004)
+
+### Tuesday, April 28
+- Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
+  - ["Introduction: Prison Reform or Prison Abolition?"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
+  - ["Chapter 2: Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
