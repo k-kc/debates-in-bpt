@@ -13,9 +13,9 @@ Dalton Hall, Room 6
 
 ---
 
-## 📢 Announcements
+## Announcements
 
-**[Add announcement here]** — Include due dates, reading changes, or important updates.
+**Ahead of our first class session reflect on the following question: s there a moment, experience, or event in your life that has shaped how you think about politics, justice, or freedom?**
 
 ---
 
