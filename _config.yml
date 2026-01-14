@@ -1,1 +1,18 @@
+title: Which Way to Freedom? Debates in Black Political Thought
+description: Course materials and resources
 theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+url: "https://k-kc.github.io"
+baseurl: "/debates-in-bpt"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - about.md
+  - syllabus.md
+  - schedule.md
