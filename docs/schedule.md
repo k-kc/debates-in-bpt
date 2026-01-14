@@ -15,7 +15,7 @@ layout: default
 
 ### Thursday, January 29
 - Harriet Jacobs, "Chapters 5, 6, 7, 10," _Incidents in the Life of a Slave Girl_ (1861)
-  - Angela Y. Davis, "The Legacy of Slavery: Standards for a New Womanhood" (1983)
+  - Angela Y. Davis, ["The Legacy of Slavery: Standards for a New Womanhood"](assets/davis-women-race-class.pdf) (1983)
 - Frederick Douglass, "Chapters 10, 11, 12," _My Bondage, My Freedom_ (1855)
   - Nolan Bennett, "To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative" (2014)
 
