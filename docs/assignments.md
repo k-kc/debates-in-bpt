@@ -18,4 +18,4 @@ layout: default
 
 ## Final - Genealogical Critique #2 - 35%
 - **Due:** [Add date]
-- **Details:** [Final](/final.md)
+- **Details:** [Final](/final1.md)
