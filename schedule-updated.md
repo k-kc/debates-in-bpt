@@ -116,8 +116,7 @@ W. E. B. Du Bois, _Darkwater_(1920)
 ### Thursday, Apr 2 
 - Bayard Rustin, “From Protest to Politics” (1964)
 - Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
-
-## Unit 3 
+- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
 ### Tuesday, Apr 7
 
