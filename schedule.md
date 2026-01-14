@@ -119,7 +119,8 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
 ### Tuesday, Apr 7
-
+- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/)(1963) and ["The Ballot or the BUllet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/)(1964)
+- Audre Lorde, "What We Learned from the 60s" in _Sister Outsider_(1984)
 
 ### Thursday, Apr 9
 
