@@ -135,19 +135,25 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - Amiri Baraka, ["Black Art" (1966)](https://www.youtube.com/watch?v=Q5zmgGtkDHU)
   
 ### Thursday, Apr 16
+- Stokley Carmichael and Charles V. Hamilton's ["_Black Power: The Politics of Liberation_(1967)"](https://teachingamericanhistory.org/document/black-power/)
+  - Chapter 1. White Power: The Colonial Situation
+  - Chapter 2. Black Power: It's Need and Its Substance 
+
+### Tuesday, Apr 21
 - Huey P. Newton,
   - “In Defense of Self Defense”
   - “Functional Definition of Politics”
   - “The Correct Handling of a Revolution”
-- Angela Davis, "Political Prisoners, Prisons, and Black Liberation” in _If They Come in the Morning..._ 
+- Angela Y. Davis, "Political Prisoners, Prisons, and Black Liberation” in _If They Come in the Morning..._ 
 - Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson)(2017)
 
-### Tuesday, Apr 21
-- The Combahee River Collective, “A Black Feminist Statement”
-- Audre Lorde, “Uses of the Erotic,” in _Sister Outsider_(1984)
 ### Thursday, Apr 23
+- The Combahee River Collective, “A Black Feminist Statement” (1979)
+- Audre Lorde, “Uses of the Erotic,” in _Sister Outsider_(1984)
+- bell hooks, "Mama Love" in _Salvation: Black People and Love_(2004)
 
 ### Tuesday, Apr 28
-
-
+- Angela Y. Davis, ["_Are Prisons Obsolete?_(2003)"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
+  - Introduction: Prison Reform or Prison Abolition?
+  - Chapter 2. Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison
 
