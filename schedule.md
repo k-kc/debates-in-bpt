@@ -114,29 +114,25 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
 ### Thursday, Apr 2 
+- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/)(1963) and ["The Ballot or the BUllet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/)(1964)
+  - Audre Lorde, "What We Learned from the 60s" in _Sister Outsider_(1984)
+
+### Tuesday, Apr 7
 - Bayard Rustin, “From Protest to Politics” (1964)
 - Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
 - Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
-### Tuesday, Apr 7
-- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/)(1963) and ["The Ballot or the BUllet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/)(1964)
-- Audre Lorde, "What We Learned from the 60s" in _Sister Outsider_(1984)
-
 ### Thursday, Apr 9
 
-
-### Tuesday, Apr 14 - Debate 6
-Resolution: 
-- Counterargument Brief #6 due Monday, Apr 13 at 11:59 PM
+### Tuesday, Apr 14 
 
 ### Thursday, Apr 16
-
 
 ### Tuesday, Apr 21
 
 ### Thursday, Apr 23
 
-###
+### Tuesday, Apr 28
 
 
 
