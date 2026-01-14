@@ -14,7 +14,7 @@ In this two-part assessment, you will analyze James Baldwin's "Down at the Cross
 
 **Due:** Wednesday, April 8 at 11:59 PM  
 **Length:** 3–4 pages  
-**Format:** [Add citation style preference: Chicago, MLA, etc.]
+**Format:** Chicago
 
 ### Guiding Questions
 
@@ -73,26 +73,7 @@ Your seminar performance will be evaluated according to the following four dimen
 
 ---
 
-## Part 3: Self-Assessment
-
-**Due:** [Add date, typically within a few days of seminar]  
-**Length:** ½–1 page
-
-Following the seminar, submit a brief self-assessment addressing the following:
-
-- What grade would you assign to your own performance? Why?
-- Identify one moment from the discussion that demonstrates your engagement with the material.
-- What idea or interpretation did you revise based on the discussion?
-- What question or aspect of Baldwin's essay would benefit from further examination?
-
-### How Grades Are Determined
-
-The instructor will review your self-assessment alongside observed performance during the seminar discussion. Your final grade will reflect both the instructor's evaluation and your own honest assessment of your work.
-
----
-
 ## What to Prepare
 
 - **For the memo:** Close, annotated reading of Baldwin's essay. Have specific passages marked that you might cite.
 - **For the seminar:** Be ready to discuss your genealogical analysis, listen carefully to peers, and ask clarifying questions.
-- **For self-assessment:** Reflect honestly on your performance and what you learned from the discussion.
