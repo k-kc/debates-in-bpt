@@ -123,8 +123,12 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
 - Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
-### Thursday, Apr 9
+### Unit 3 Checkpoint: Prep Memo & Thinking Seminar 
+- James Baldwin, ["Letter from a Region of My Mind"](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind)(1962)
+- Wednesday, Apr 8 at 11:59 PM: Prep Memo Due
+- Thursday, Apr 9: In-class Discussion Assessment
 
+## Unit 4
 ### Tuesday, Apr 14 
 
 ### Thursday, Apr 16
