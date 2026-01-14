@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Course Schedule
-
+### Thursday, January 22
+- Cornel West, ["Philosophy and the Afro-American Experience" (2003)](/assests/west-philosophy-and-the-afro-american-experience (2003).pdf)
 ## Unit 1: Slavery
 
 ### Tuesday, January 27
