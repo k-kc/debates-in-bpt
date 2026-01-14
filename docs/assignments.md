@@ -17,5 +17,5 @@ layout: default
 - **Details:** [Prep Memo #2](/prep-memo-2.md)
 
 ## Final - Genealogical Critique #2 - 35%
-- **Due:** [Add date]
+- **Due:** May 9 at 11:59 PM
 - **Details:** [Final](/final1.md)
