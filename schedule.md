@@ -92,6 +92,7 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - ["Of the Ruling of Men"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_VI)
 
 ### Thursday, Mar 19 
+- Thurgood Marshall, ["Negro Discrimination and the Need for Federal Action"](https://archive.org/details/thurgoodmarshall0000mars/page/78/mode/2up)
 - Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)
 - Desmond King and Rogers Smith, “Racial Orders in American Political Development" (2005)
 - Megan Ming Francis, "Rethinking Civil Rights and American Political Development" (2014)
