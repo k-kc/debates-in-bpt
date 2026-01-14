@@ -1,4 +1,4 @@
-## Prep Memo (Due Sunday, Feb 8 at Midnight)
+## Prep Memo #1 (Due Sunday, Feb 8 at Midnight)
 Write a 2-3 page memo on one of the following figures: Frederick Douglass, Harriet Jacobs, or Harriet Tubman.
 Address the following questions:
 - What is this thinker's/actor's approach to resisting slavery? Provide specific textual evidence—cite at least two concrete moments that demonstrate this approach.
