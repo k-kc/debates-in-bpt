@@ -8,8 +8,10 @@ This course explores the central debates of Black political thought from slavery
 
 [Schedule & Readings](/schedule.md)
 
-Assignments & Rubrics
+[Assignments & Rubrics](/assignments.md)
+
 Accessibility
+
 Additional Resources
 
 Professor: Kierstan Kaushal-Carter
