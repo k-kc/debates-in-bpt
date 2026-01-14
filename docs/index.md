@@ -32,12 +32,7 @@ Class sessions emphasize active debate and dialogue, giving students the chance 
 - [Learning Objectives](learning-objectives.md)
 - [Schedule & Readings](schedule.md)
 - [Assignments & Rubrics](assignments.md)
-
----
-
-## Accessibility & Resources
-
-Additional Resources section here
+- [Course Policies](policies.md)
 
 ---
 
