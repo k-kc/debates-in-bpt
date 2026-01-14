@@ -2,13 +2,13 @@
 ### Tuesday, Jan 20 - Welcome & Introductions
 
 ### Thurday, Jan 22
-- Cornel West, "Philosophy and the Afro-American Experience," in A Companion to African-American Philosophy, edited by Tommy L. Lott, and John P. Pittman (2003)
+- Cornel West, Excerpts from "Philosophy and the Afro-American Experience," (2003)
 - David Walker, _Appeal_ (1829) "Preface" and "Chapter 1 - Our Wretchedness in Consequence of Slavery"
   
 ## Unit 1 - Slavery 
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
-- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_(1845)
+- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1845)
 - Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_ (1861)
 
 ### Thursday, Jan 29
