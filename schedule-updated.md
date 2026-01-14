@@ -8,7 +8,7 @@
 ## Unit 1 - Slavery 
 ### Tuesday, Jan 27 
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014) (p. 1-4)
-- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_ (1845)
+- Frederick Douglass, "Chapter 1" _Narrative of the Life of Frederick Douglass_(1845)
 - Harriet Jacobs, "Chapter 1" in _Incidents in the Life of a Slave Girl_ (1861)
 
 ### Thursday, Jan 29
@@ -86,22 +86,36 @@
 
 ## Unit 3 - The Dawn of Mass Struggle 
 ### Tuesday, Mar 17 
-W. E. B. Du Bois 
+W. E. B. Du Bois, _Darkwater_(1920)
+- ["The Souls of White Folk"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_II)
+- ["The Hands of Ethiopia"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_III)
+- ["Of the Ruling of Men"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_VI)
+
 ### Thursday, Mar 19 
-- Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)*
+- Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)
 - Desmond King and Rogers Smith, “Racial Orders in American Political Development" (2005)
+- Megan Ming Francis, "Rethinking Civil Rights and American Political Development" (2014)
   
 ### Tuesday, Mar 24 
-- Barbara Ransby, Ella Baker and the Black Freedom Movement, Chapters 6 and 9
-- Charles Payne, “Ella Baker and Models of Social Change” 
-
+- Barbara Ransby, _Ella Baker and the Black Freedom Movement_(2003)
+  - "The Preacher and the Organizer"
+  - "The Empowerment of Indigenous Southern Black Leadership"
+- Mie Inoyue, "Starting with People Where They Are: Ella Baker’s Theory of Political Organizing" (2021)  
 
 ### Thursday, Mar 26 - NO CLASS
 
 ### Tuesday, Mar 31 
+- Martin Luther King Jr, _A Testament of Hope_(1986)
+  - “Nonviolence and Racial Justice”
+  - “The Ethical Demands for Integration”
+  - “Give Us the Ballot—We Will Transform the South”
+  - “I Have a Dream”
+  - “Letter from a Birmingham City Jail”
+- Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
-### Thursday, Apr 2 - Debate 5 
-
+### Thursday, Apr 2 
+- Bayard Rustin, “From Protest to Politics” (1964)
+- Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
 
 ## Unit 3 
 
