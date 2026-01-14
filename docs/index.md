@@ -4,6 +4,7 @@ layout: default
 
 # POLSCI B263: Which Way to Freedom?
 ## Debates in Black Political Thought
+Tuesdays and Thursdays @ 10 AM
 
 **Professor:** Kierstan Kaushal-Carter  
 **Contact:** kkc@brynmawr.edu  
