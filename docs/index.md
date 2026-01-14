@@ -15,7 +15,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-**Ahead of our first class session reflect on the following question: s there a moment, experience, or event in your life that has shaped how you think about politics, justice, or freedom?**
+**Ahead of our first class session reflect on the following question:** Is there a moment, experience, or event in your life that has shaped how you think about politics, justice, or freedom?
 
 ---
 
