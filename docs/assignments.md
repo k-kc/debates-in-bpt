@@ -16,6 +16,6 @@ layout: default
 - **Due:** Wednesday, April 8 at 11:59 PM
 - **Details:** [Prep Memo #2](/prep-memo-2.md)
 
-## Genealogical Critique #2
+## Final - Genealogical Critique #2
 - **Due:** [Add date]
-- **Details:** [Add link to assignment details]
+- **Details:** [Final](/final.md)
