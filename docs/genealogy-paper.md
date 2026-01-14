@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Genealogy Paper: Unit 2
+# : Unit 2 Checkpoint: Genealogy Paper
 
 ## Assignment Overview
 
