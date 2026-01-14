@@ -4,9 +4,10 @@ layout: default
 
 # Course Schedule
 ### Thursday, January 22
-- Cornel West, ["Philosophy and the Afro-American Experience" (2003)](/assets/west-philosophy-and-the-afro-american-experience (2003).pdf)
-## Unit 1: Slavery
+- ([Cornel West, "Philosophy and the Afro-American Experience"(2003)](assets/west-philosophy-afro-american-experience.pdf))
+- Walker's ["Appeal to the Coloured Citizens of the World (1829)"](https://docsouth.unc.edu/nc/walker/walker.html)
 
+## Unit 1: Slavery
 ### Tuesday, January 27
 - Henry Louis Gates, "Introduction" to _Classic Slave Narratives_ (2014), p. 1–4
 - Frederick Douglass, "Chapter 1," _Narrative of the Life of Frederick Douglass_ (1845)
