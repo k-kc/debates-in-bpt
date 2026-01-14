@@ -82,20 +82,18 @@
   - "Declaration of the Rights of the Negro Peoples of the World"
 - Adom Getachew, “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding" (2021)
 
-### Tuesday, Mar 10 - SPRING BREAK NO CLASS
+### Unit 2 Checkpoint: Geneaology Paper Due Monday, March 16
 
-### Thursday, Mar 12 - SPRING BREAK NO CLASS
-
+## Unit 3 - The Dawn of Mass Struggle 
 ### Tuesday, Mar 17 
-- W.E.B. Du Bois, “Marxism and the Negro Problem” (1933) & “A Negro Nation Within A Nation” (1935)
-- Harry Haywood, “Chapter 7: The Negro Nation,” from _Negro Liberation_ (1948)
-- Claudia Jones, “An End to the Neglect of the Problems of Negro Women!,” _Political Affairs_ (1949)
-
+W. E. B. Du Bois 
 ### Thursday, Mar 19 
 - Thurgood Marshall, “The Legal Attack to Secure Civil Rights” (Speech at the NAACP Wartime Conference) (1944)*
 - Desmond King and Rogers Smith, “Racial Orders in American Political Development" (2005)
   
-### Tuesday, Mar 24 - Debate 4
+### Tuesday, Mar 24 
+- Barbara Ransby, Ella Baker and the Black Freedom Movement, Chapters 6 and 9
+- Charles Payne, “Ella Baker and Models of Social Change” 
 
 
 ### Thursday, Mar 26 - NO CLASS
