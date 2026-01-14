@@ -8,7 +8,9 @@ Tuesdays and Thursdays @ 10 AM
 Dalton Hall, Room 6
 
 **Professor:** Kierstan Kaushal-Carter  
+
 **Contact:** kkc@brynmawr.edu
+
 **Office Hours:** Tuesdays 2–3 PM via Zoom and Thursdays 12–1 PM in person (right after class)
 
 ---
