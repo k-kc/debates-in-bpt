@@ -15,9 +15,9 @@ This essay represents the culmination of the genealogical thinking you have prac
 ## Requirements
 
 - **Length:** 10–12 pages
-- **Due:** [Add date]
+- **Due:** May 9, 2026 at 11:59 PM
 - **Sources:** Course texts only (no outside research beyond the source material provided)
-- **Format:** [Add citation style preference: Chicago, MLA, etc.]
+- **Format:** Chicago
 
 ---
 
@@ -26,7 +26,7 @@ This essay represents the culmination of the genealogical thinking you have prac
 Write an essay that addresses all of the following:
 
 **On Intellectual Inheritance**
-- Which figures from Units 1–3 is this contemporary thinker drawing on to think about their problem? Identify explicit references, thematic echoes, and conceptual inheritances from the tradition.
+- Which figures from our course is this contemporary thinker drawing on to think about their problem? Identify explicit references, thematic echoes, and conceptual inheritances from the tradition.
 
 **On Historical Urgency**
 - What is the specific historical problem this thinker is confronting? Move beyond general categories to identify the particular crisis, condition, or challenge that makes their intervention urgent and distinctive.
