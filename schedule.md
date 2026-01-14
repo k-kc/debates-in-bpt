@@ -101,7 +101,7 @@ W. E. B. Du Bois, _Darkwater_(1920)
 - Barbara Ransby, _Ella Baker and the Black Freedom Movement_(2003)
   - "The Preacher and the Organizer"
   - "The Empowerment of Indigenous Southern Black Leadership"
-- Mie Inoyue, "Starting with People Where They Are: Ella Baker’s Theory of Political Organizing" (2021)  
+- Alicia Garza, "New Movements, New Leadership," in ["_The Purpose of Power_(2020)"](https://gendersexuality.northwestern.edu/documents/alicia-garza---the-purpose-of-power---2020.pdf)
 
 ### Thursday, Mar 26 - NO CLASS
 
@@ -121,20 +121,30 @@ W. E. B. Du Bois, _Darkwater_(1920)
 ### Tuesday, Apr 7
 - Bayard Rustin, “From Protest to Politics” (1964)
 - Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past" (2009)
-- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
+- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067)(2020)
 
 ### Unit 3 Checkpoint: Prep Memo & Thinking Seminar 
 - James Baldwin, ["Letter from a Region of My Mind"](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind)(1962)
 - Wednesday, Apr 8 at 11:59 PM: Prep Memo Due
 - Thursday, Apr 9: In-class Discussion Assessment
 
-## Unit 4
+## Unit 4 - Black Power & Its Afterlives 
 ### Tuesday, Apr 14 
-
+- Jean-Paul Satre, ["Preface" to _Wretched of the Earth_(1961)"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) (p. 7-12)
+- Franz Fanon, "Concerning Violence" in ["_Wretched of the Earth_(1961)"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) p. 37-45
+- Amiri Baraka, ["Black Art" (1966)](https://www.youtube.com/watch?v=Q5zmgGtkDHU)
+  
 ### Thursday, Apr 16
+- Huey P. Newton,
+  - “In Defense of Self Defense”
+  - “Functional Definition of Politics”
+  - “The Correct Handling of a Revolution”
+- Angela Davis, "Political Prisoners, Prisons, and Black Liberation” in _If They Come in the Morning..._ 
+- Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson)(2017)
 
 ### Tuesday, Apr 21
-
+- The Combahee River Collective, “A Black Feminist Statement”
+- Audre Lorde, “Uses of the Erotic,” in _Sister Outsider_(1984)
 ### Thursday, Apr 23
 
 ### Tuesday, Apr 28
