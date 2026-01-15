@@ -35,7 +35,7 @@ layout: default
 
 ---
 
-## Unit 2: The Emergence of "a People" (1865-1945)
+## Unit 2: The Emergence of "a People" (1865-1919)
 
 ### Thursday, February 12
 - Eric Foner, _A Short History of Reconstruction_ (2014)
@@ -92,7 +92,7 @@ layout: default
 
 ---
 
-## Unit 3: The Dawn of Mass Struggle
+## Unit 3: The Dawn of Mass Struggle (1919-1965)
 
 ### Tuesday, March 17
 - W.E.B. Du Bois, _Darkwater_ (1920)
@@ -140,7 +140,7 @@ layout: default
 
 ---
 
-## Unit 4: Black Power & Its Afterlives
+## Unit 4: Black Power & Its Afterlives (1966-Present)
 
 ### Tuesday, April 14
 - Jean-Paul Sartre, ["Preface,"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) in _Wretched of the Earth_ (1961), p. 7–12
