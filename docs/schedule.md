@@ -30,12 +30,12 @@ layout: default
   - Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
 
 ### Unit 1 Checkpoint
-- **Sunday, February 8 at 11:59 PM:** Prep Memo due
+- **Sunday, February 8 at 11:59 PM:** [Prep Memo due](/prep-memo-1.md)
 - **Tuesday, February 10:** In-class discussion assessment
 
 ---
 
-## Unit 2: The Emergence of "a People"
+## Unit 2: The Emergence of "a People" (1865-1945)
 
 ### Thursday, February 12
 - Eric Foner, _A Short History of Reconstruction_ (2014)
