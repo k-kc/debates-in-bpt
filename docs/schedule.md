@@ -20,10 +20,9 @@ layout: default
   - Nolan Bennett, ["To Narrate and Denounce: Frederick Douglass and the Politics of Personal Narrative"](assets/bennett-narrate-and-denounce.pdf) (2014)
 
 ### Tuesday, February 3
-- Harriet Jacobs, "Chapters 15, 17, 19, 21," _Incidents in the Life of a Slave Girl_ (1861)
-  - Georgia Kreiger, "Playing Dead: Harriet Jacobs's Survival Strategy in _Incidents in the Life of a Slave Girl_" (2008)
-- Frederick Douglass, "Chapters 20, 21, 22," _My Bondage, My Freedom_ (1855)
-  - Bernard Boxill, "The Fight with Covey," in _Existence in Black_
+- Harriet Jacobs, ["Chapters 15, 17, 19, 21,"](https://archive.org/details/incidentsinlifeo1861jaco/page/122/mode/2up) _Incidents in the Life of a Slave Girl_ (1861)
+  - Tina M. Campt, ["The Loophole of Retreat—An Invitation"](https://www.e-flux.com/journal/105/302556/the-loophole-of-retreat-an-invitation) (2019)
+- Frederick Douglass, ["Chapters 15, 16, 17,"](https://docsouth.unc.edu/neh/douglass55/douglass55.html#p205) _My Bondage, My Freedom_ (1855)
 
 ### Thursday, February 5
 - Sarah Hopkins Bradford, _Harriet Tubman: The Moses of Her People_ (1886), p. 13–33
