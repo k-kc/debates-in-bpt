@@ -28,7 +28,7 @@ If you must miss a graded seminar discussion (Unit 1 or Unit 3), contact me imme
 
 If you're regularly arriving late, I'll reach out. We all have busy lives, but repeated lateness affects the flow of discussion and signals something might be off—let's talk about how to support you in being here on time.
 
-**Confidentiality**
+**Privacy**
 
 This course engages with sensitive material—sexual violence, racism, antisemitism, state repression. These are important conversations that require trust. What people share in this room stays in this room. Please don't share other students' contributions, questions, or reflections outside of class without their permission. This commitment to each other makes genuine dialogue possible.
 
