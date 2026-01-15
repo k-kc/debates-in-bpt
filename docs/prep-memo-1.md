@@ -33,9 +33,9 @@ Your memo should address all of the following:
 ## Requirements
 
 - **Length:** 2–3 pages
-- **Format:** [Add citation style preference: Chicago, MLA, etc.]
+- **Format:** Chicago style
 - **Due Date:** Sunday, February 8 at 11:59 PM
-- **Submission:** [Add how students should submit: email, course portal, etc.]
+- **Submission:** via email to kkc@brynmawr.edu
 
 ---
 
