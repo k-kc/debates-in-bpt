@@ -72,11 +72,15 @@ If you're struggling with an assignment or unclear about what constitutes approp
 
 **Disability Services**
 
-Bryn Mawr is committed to creating an accessible learning environment. If you have a documented disability or believe you may need accommodations, contact the Office of Disability Services at [email/phone]. They will work with you to determine what accommodations are appropriate and will communicate those needs to me confidentially.
+Bryn Mawr College is committed to providing equal access to students with a documented disability. Students needing academic accommodations for a disability must first speak with Access Services. Students can email accessservices@brynmawr.edu to request an appointment to begin this confidential process. If eligible for accommodations as per Access Services, students should schedule an appointment with the professor as early in the semester as possible to share their verification form and make appropriate arrangements. Please note that accommodations are not retroactive and require advance notice to implement. More information can be obtained at the Access Services website. (http://www.brynmawr.edu/access-services/)
+
+Any student who has a disability-related need to record this class must first be found eligible to do so by Access Services and must share this eligibility with me, the instructor. Class members need to be aware that this class may be recorded.
+
+Sourced from the Bryn Mawr College website: https://www.brynmawr.edu/inside/offices-services/access-services/faculty/sample-syllabus-statement-accessibility
 
 **Implementing Accommodations**
 
-Once you've registered with Disability Services, share your accommodation letter with me as early as possible. I will work with you to implement accommodations that support your learning. If you have questions about how accommodations will work in this particular course, let's talk.
+Once you've registered with Access Services, share your accommodation letter with me as early as possible. I will work with you to implement accommodations that support your learning. If you have questions about how accommodations will work in this particular course, let's talk.
 
 **Confidentiality**
 
