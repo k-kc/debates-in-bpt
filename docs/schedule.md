@@ -6,6 +6,7 @@ layout: default
 ### Thursday, January 22
 - Cornel West, ["Philosophy and the Afro-American Experience"](assets/west-philosophy-and-the-afro-american-experience.pdf) (2003)
 - Walker's ["Appeal to the Coloured Citizens of the World"](https://docsouth.unc.edu/nc/walker/walker.html) (1829)
+  - Preamble & Article 1. Our Wretchedness in Consequence of Slavery
 
 ## Unit 1: Slavery
 ### Tuesday, January 27
