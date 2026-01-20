@@ -4,7 +4,7 @@ layout: default
 
 # POLSCI B263: Which Way to Freedom?
 ## Debates in Black Political Thought
-Tuesdays and Thursdays @ 10 AM
+Tuesdays and Thursdays @ 10:10 AM
 Dalton Hall, Room 6
 
 **Professor:** Kierstan Kaushal-Carter  
