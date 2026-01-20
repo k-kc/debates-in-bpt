@@ -27,7 +27,7 @@ layout: default
 
 ### Thursday, February 5
 - Sarah Hopkins Bradford, [_Harriet Tubman: The Moses of Her People_](https://docsouth.unc.edu/neh/harriet/harriet.html) (1886), p. 13–33
-  - Tiya Miles, "Preface: The Storm" and "Chapter 5: The Flight," in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_ (2024)
+  - Tiya Miles, ["Preface: The Storm"](assets/miles-the-storm.pdf) and ["Chapter 5: The Flight,"](assets/miles-the-flight.pdf) in _Night Flyer: Harriet Tubman and the Faith Dreams of a Free People_ (2024)
   - Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
 
 ### Unit 1 Checkpoint
