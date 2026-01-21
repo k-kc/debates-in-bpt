@@ -21,3 +21,13 @@
 
 - Jeremiad: invokes the old testament God who intervenes on behalf of his people and overturns society
   - Jeremiah (in the Bible warns about the downfall of https://bibleproject.com/guides/book-of-jeremiah/ 
+
+- Orland Patterson: slavery is a human constant. Orland Patterson's comparative study identifies three properties
+  - violence/coercion (powerlessness over oneself)
+    - because its a substitute (lighter punishment) for death
+  - natal alienation (powerlessness over one's relations)
+  - dishonor 
+### Passages
+Opening line: "It will be recollected, that I, in the first edition of my "Appeal,"* promised to demonstrate in the course of which, viz. in the course of my Appeal, to the satisfaction of the most incredulous mind, that we Coloured People of these United States, are, **the most wretched, degraded and abject set of beings that over lived since the world began, down to the present day, and, that, the white Christians of America, who hold us in slavery, (or, more properly speaking, pretenders to Christianity,) treat us more cruel and barbarous than any Heathen nation did any people whom it had subjected, or reduced to the same condition, that the Americans (who are, notwithstanding, looking for the Millennial day) have us.**
+
+Preamble opening line: "HAVING travelled over a considerable portion of these United States, and having, in the course of my travels, taken the most accurate observations of things as they exist--the result of my observations has warranted the full and unshaken conviction, that we, (coloured people of these United States,) are the most degraded, wretched, and abject set of beings that ever lived since the world began; and I pray God that none like us ever may live again until time shall be no more."
