@@ -39,3 +39,5 @@
 - **racial inferiority/race science**: Have they not, after having reduced us to the deplorable condition of slaves under their feet, held us up as descending originally from the tribes of Monkeys or Orang- Outangs?...Has Mr. Jefferson declared to the world, that we are inferior to the whites, both in the endowments of our bodies and of minds? It is indeed surprising, that a man of such great learning, combined with such excellent natural parts, should speak so of a set of men in chains.
 
 - **self respect/revolt**: The man who would not fight under our Lord and Master Jesus Christ, in the glorious and heavenly cause of freedom and of God--to be delivered from the most wretched, abject and servile slavery, that ever a people was afflicted with since the foundation of the world, to the present day--ought to be kept with all of his children or family, in slavery, or in chains, to be butchered by his cruel enemies.
+
+- **masculinity**: Are we MEN!!--I ask you, O my brethren! are we MEN? Did our Creator make us to be slaves to dust and ashes like ourselves? 
