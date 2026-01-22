@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-**Ahead of our first class session reflect on the following question:** What moment, experience, or event in your life has shaped how you think about politics?
+[Tuesday, Jan 27](https://github.com/k-kc/debates-in-bpt/blob/main/docs/schedule.md#tuesday-january-27) reading updated! 
 
 ---
 
