@@ -14,6 +14,7 @@ layout: default
 - Henry Louis Gates, ["Introduction"](assets/gates-classic-slave-narratives.pdf) to _Classic Slave Narratives_ (2014)
 - Frederick Douglass, ["Chapter 1,"](https://archive.org/details/narrativeoflifeo1846doug/page/n23/mode/2up) _Narrative of the Life of Frederick Douglass_ (1845)
 - Harriet Jacobs, ["Chapter 1,"](https://archive.org/details/incidentsinlifeo1861jaco/page/10/mode/2up) _Incidents in the Life of a Slave Girl_ (1861)
+- Hortense Spillers, ["Mama's Baby, Papa's Maybe: An American Grammar"](assets/spillers-mamas-baby-papas-maybe.pdf)(1987)
 
 ### Thursday, January 29
 - Harriet Jacobs, ["Chapters 5, 6, 7, 10,"](https://archive.org/details/incidentsinlifeo1861jaco/page/44/mode/2up) _Incidents in the Life of a Slave Girl_ (1861)
