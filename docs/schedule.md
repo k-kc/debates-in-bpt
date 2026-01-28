@@ -33,7 +33,7 @@ layout: default
   - Kellie Carter Jackson, "Protection," in _We Refuse: A Forceful History of Black Resistance_ (2018)
 
 ### Unit 1 Checkpoint
-- **Sunday, February 8 at 11:59 PM:** [Prep Memo due](/prep-memo-1.md)
+- **Sunday, February 8 at 11:59 PM:** [Prep Memo due](/docs/prep-memo-1.md)
 - **Tuesday, February 10:** In-class discussion assessment
 
 ---
