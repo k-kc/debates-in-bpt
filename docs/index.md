@@ -17,9 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-Class today (1/27) will be held via Zoom [link here](https://upenn.zoom.us/j/3527819400?omn=99395890116)
-
-[Tuesday, Jan 27](https://github.com/k-kc/debates-in-bpt/blob/main/docs/schedule.md#tuesday-january-27) reading updated! 
+Check back later for more
 
 ---
 
