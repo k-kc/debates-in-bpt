@@ -39,9 +39,33 @@ Your memo should address all of the following:
 
 ---
 
-## What Happens Next
+## Part 2: Graded Seminar Discussion
 
-Your prep memo will inform our **in-class discussion on Tuesday, February 10**, where we'll think together about these strategies and their implications.
+**Date:** Tuesday, Feb 10 (Full Period)
+
+In seminar, you will defend your analysis and engage with peers' interpretations in real time.
+
+### Evaluation Criteria
+
+Your seminar performance will be evaluated according to the following four dimensions:
+
+**Evidence of Deep Reading (25%)**
+- Ability to cite specific passages from primary and secondary texts with accuracy
+- Use of evidence to support claims about strategies of resistance
+- Distinction between authors' explicit arguments and underlying assumptions
+
+**Charitable Engagement (25%)**
+- Understanding of assigned author's position within its historical context
+- Explanation of the logic and urgency of their intervention
+- Resistance to reductive or anachronistic interpretation
+
+**Comparative Thinking (25%)**
+- Engagement with how assigned author relates to contemporaries
+- Identification of patterns and tensions between thinkers
+
+**Intellectual Honesty (25%)**
+- Acknowledgment of complexities and tensions within assigned author's argument
+- Willingness to revise thinking based on peer contributions
 
 ---
 
