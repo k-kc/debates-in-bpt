@@ -45,6 +45,7 @@ layout: default
   - [Chapter 3: The Meaning of Freedom](assets/foner-reconstruction-chapter-3.pdf)
   - [Epilogue: "The River Has Its Bend"](assets/foner-reconstruction-epilogue.pdf)
 - Frederick Douglass, ["The Negro Problem"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) (1890)
+- Angela Y. Davis, ["The Meaning of Emanicipation According to Black Women"](assets/davis-meaning-of-emancipation.pdf) (1981) 
 - Ta-Nehisi Coates, ["Introduction,"](assets/coates-good-negro-government.pdf) in _We Were Eight Years in Power_ (2017)
 
 ### Tuesday, February 17
