@@ -42,10 +42,10 @@ layout: default
 
 ### Thursday, February 12
 - Eric Foner, _A Short History of Reconstruction_ (2014)
-  - Chapter 3: The Meaning of Freedom
-  - Epilogue: "The River Has Its Bend"
+  - [Chapter 3: The Meaning of Freedom](assets/foner-reconstruction-chapter-3.pdf)
+  - [Epilogue: "The River Has Its Bend"](assets/foner-reconstruction-epilogue.pdf)
 - Frederick Douglass, ["The Negro Problem"](https://frederickdouglasspapersproject.com/s/digitaledition/item/19164) (1890)
-- Ta-Nehisi Coates, "Introduction," in _We Were Eight Years in Power_ (2017)
+- Ta-Nehisi Coates, ["Introduction,"](assets/coates-good-negro-government.pdf) in _We Were Eight Years in Power_ (2017)
 
 ### Tuesday, February 17
 - Ida B. Wells, _Southern Horrors: Lynch Law in All its Phases_ (1892)
