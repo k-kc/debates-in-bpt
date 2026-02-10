@@ -34,7 +34,7 @@ layout: default
 
 ### Unit 1 Checkpoint
 - **Sunday, February 8 at 11:59 PM:** [Prep Memo due](/docs/prep-memo-1.md)
-- **Tuesday, February 10:** In-class discussion assessment
+- **Tuesday, February 10:** [In-class discussion assessment](assets/slavery-ethics-of-the-oppressed.pdf)
 
 ---
 
