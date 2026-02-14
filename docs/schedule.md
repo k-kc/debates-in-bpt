@@ -54,6 +54,8 @@ layout: default
   - ["The New Cry"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_NEW_CRY)
   - ["The South's Position"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#THE_SOUTHS_POSITION)
   - ["Self-Help"](https://www.gutenberg.org/files/14975/14975-h/14975-h.htm#SELF_HELP)
+  Librivox Audiobook: https://librivox.org/southern-horrors-by-ida-b-wells/
+  
 - Michelle Duster, ["Excerpts,"](https://www.pulitzer.org/article/excerpt-ida-b-queen) from _Ida B. the Queen: The Extraordinary Life and Legacy of Ida B. Wells_ (2021)
 
 ### Thursday, February 19
@@ -62,9 +64,7 @@ layout: default
   - ["Chapter VI: Black Race and Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X: A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV: The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
-- Booker T. Washington, _Character Building: Being an Address Delivered on Sunday Evenings to the Students of Tuskegee Institute_ (1902)
-  - "Individual Responsibility"
-  - "Substance vs. Shadow"
+Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washington/
 
 ### Tuesday, February 24
 **Provost's Distinguished Visitor Book Talk with Brandon M. Terry** (No regular readings)
@@ -76,6 +76,7 @@ layout: default
   - "Of Mr. Booker T. Washington"
   - "Of the Training of Black Men"
   - "Of the Sorrow Songs"
+Librivox Audiobook: https://librivox.org/souls-of-black-folks-by-web-du-bois/
 - Joshua Meyers, "Of Hesitance: W.E.B. Du Bois," in _Of Black Study_ (2022)
 
 ### Tuesday, March 3
