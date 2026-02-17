@@ -58,6 +58,8 @@ layout: default
   
 - Michelle Duster, ["Excerpts,"](https://www.pulitzer.org/article/excerpt-ida-b-queen) from _Ida B. the Queen: The Extraordinary Life and Legacy of Ida B. Wells_ (2021)
 
+[Midsemester Eval Results](assets/mid-semester-eval-1.pdf)
+
 ### Thursday, February 19
 - Booker T. Washington, _Up from Slavery_ (1901)
   - ["Chapter II: Boyhood Days"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0002)
