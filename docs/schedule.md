@@ -60,10 +60,12 @@ layout: default
 
 ### Thursday, February 19
 - Booker T. Washington, _Up from Slavery_ (1901)
+  - ["Chapter II: Boyhood Days"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0002)
   - ["Chapter V: The Reconstruction Period"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0005)
   - ["Chapter VI: Black Race and Red Race"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0006)
   - ["Chapter X: A Harder Task Than Making Bricks Without Straw"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0010)
   - ["Chapter XIV: The Atlanta Exposition Address"](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm#link2HCH0014)
+
 Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washington/
 
 ### Tuesday, February 24
@@ -76,6 +78,7 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
   - "Of Mr. Booker T. Washington"
   - "Of the Training of Black Men"
   - "Of the Sorrow Songs"
+
 Librivox Audiobook: https://librivox.org/souls-of-black-folks-by-web-du-bois/
 - Joshua Meyers, "Of Hesitance: W.E.B. Du Bois," in _Of Black Study_ (2022)
 
