@@ -75,18 +75,16 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
 
 ### Thursday, February 26
 - W.E.B. Du Bois, _The Souls of Black Folk_ (1903)
-  - "Of Our Spiritual Strivings"
-  - "Of the Dawn of Freedom"
-  - "Of Mr. Booker T. Washington"
-  - "Of the Training of Black Men"
-  - "Of the Sorrow Songs"
+  - ["Chapter 1. Of Our Spiritual Strivings"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap01))
+  - ["Chapter. 2 Of the Dawn of Freedom"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap02)
+  - ["Chapter 3. Of Mr. Booker T. Washington"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap03)
+  - ["Chapter 6. Of the Training of Black Men"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap06)
+  - ["Chapter 14. Of the Sorrow Songs"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap14)
 
-Librivox Audiobook: https://librivox.org/souls-of-black-folks-by-web-du-bois/
-- Joshua Meyers, "Of Hesitance: W.E.B. Du Bois," in _Of Black Study_ (2022)
+[Librivox Audiobook edition](https://librivox.org/souls-of-black-folks-by-web-du-bois/)
 
 ### Tuesday, March 3
 - W.E.B. Du Bois, ["The Talented Tenth,"](https://archive.org/details/negroproblemseri00wash/page/n38/mode/1up) in _The Negro Problem_ (1903)
-- Anna Julia Cooper, ["Higher Education of Women"](https://dh.howard.edu/cgi/viewcontent.cgi?article=1027&context=ajc_published) (1892)
 - Booker T. Washington, ["Industrial Education for the Negro,"](https://archive.org/details/negroproblemseri00wash/page/n14/mode/1up) in _The Negro Problem_ (1903)
 - Barack Obama, ["Morehouse College Commencement Address"](https://www.youtube.com/watch?v=e50Tt9qJRQk) (2013)
 
@@ -95,7 +93,6 @@ Librivox Audiobook: https://librivox.org/souls-of-black-folks-by-web-du-bois/
   - "What We Believe"
   - "An Appeal to the Conscience of the Black Race to See Itself"
   - "Declaration of the Rights of the Negro Peoples of the World"
-- Adom Getachew, "The Common Spectacle of the Race: Garveyism's Visual Politics of Founding" (2021)
 
 ### Unit 2 Checkpoint
 - **Monday, March 16:** Genealogy paper due
