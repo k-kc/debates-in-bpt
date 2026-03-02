@@ -90,10 +90,13 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
 - Barack Obama, ["Morehouse College Commencement Address"](https://www.youtube.com/watch?v=e50Tt9qJRQk) (2013)
 
 ### Thursday, March 5
-- Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey_ (1923)
-  - "What We Believe"
-  - "An Appeal to the Conscience of the Black Race to See Itself"
-  - "Declaration of the Rights of the Negro Peoples of the World"
+- Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey Volume 2_(1923)
+  - ["An Appeal to the Soul of White America"](assets/garvey-appeal-to-white-america.pdf)
+  - ["What We Believe"](assets/garvey-what-we-believe.pdf)
+  - ["An Appeal to the Conscience of the Black Race to See Itself"](assets/garvey-appeal.pdf)
+  - ["Declaration of the Rights of the Negro Peoples of the World"](assets/declaration-of-rights.pdf)
+ 
+- Adom Getachew, ["A “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding"](assets/getachew-founding-spectacle.pdf) (2021)
 
 ### Unit 2 Checkpoint
 - **Monday, March 16:** Genealogy paper due
