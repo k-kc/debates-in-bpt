@@ -94,7 +94,7 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
   - ["An Appeal to the Soul of White America"](assets/garvey-appeal-to-white-america.pdf)
   - ["What We Believe"](assets/garvey-what-we-believe.pdf)
   - ["An Appeal to the Conscience of the Black Race to See Itself"](assets/garvey-appeal.pdf)
-  - ["Declaration of the Rights of the Negro Peoples of the World"](assets/declaration-of-rights.pdf)
+  - ["Declaration of the Rights of the Negro Peoples of the World"](assets/garvey-declaration-of-rights.pdf)
  
 - Adom Getachew, ["A “Common Spectacle” of the Race: Garveyism’s Visual Politics of Founding"](assets/getachew-founding-spectacle.pdf) (2021)
 
