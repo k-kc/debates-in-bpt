@@ -86,8 +86,9 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
   - ["Chapter 4. Of The Meaning of Progress"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap04)
   - ["Chapter 5. Of the Wings of Atlanta"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap05)
   - ["Chapter 6. Of the Training of Black Men"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap06)
-  - ["Chapter 14. Of the Sorrow Songs"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap14)
 - Barack Obama, ["Morehouse College Commencement Address"](https://www.youtube.com/watch?v=e50Tt9qJRQk) (2013)
+
+Optional: _Souls_["Chapter 14. Of the Sorrow Songs"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap14)
 
 ### Thursday, March 5
 - Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey Volume 2_(1923)
