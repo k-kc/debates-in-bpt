@@ -90,6 +90,8 @@ Librivox Audiobookbook: https://librivox.org/up-from-slavery-from-booker-t-washi
 
 Optional: _Souls_["Chapter 14. Of the Sorrow Songs"](https://www.gutenberg.org/files/408/408-h/408-h.htm#chap14)
 
+In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
+
 ### Thursday, March 5
 - Marcus Garvey, _The Philosophy and Opinions of Marcus Garvey Volume 2_(1923)
   - ["An Appeal to the Soul of White America"](assets/garvey-appeal-to-white-america.pdf)
