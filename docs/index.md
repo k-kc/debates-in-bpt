@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-[Mid-semester course evals](https://forms.gle/yDmiEdAoaXeVgBaa7) are now open! 
+Check back later for more updates
 
 ---
 
