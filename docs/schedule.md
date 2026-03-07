@@ -109,16 +109,14 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 ## Unit 3: The Dawn of Mass Struggle (1919-1965)
 
 ### Tuesday, March 17
-- W.E.B. Du Bois, _Darkwater_ (1920)
-  - ["The Souls of White Folk"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_II)
-  - ["The Hands of Ethiopia"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_III)
-  - ["Of the Ruling of Men"](https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_VI)
+- Isabelle Wilkerson, "the Great Migration 1915-1970," in _The Warmth of Other Suns_(2010)
+- Richard Wright, "Chapter 2. Death on City Pavement" in _12 Million Black Voices: A Folk History of the Negro in the United States_ (1940)
+- Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past" (2005) excerpts
+
 
 ### Thursday, March 19
-- Thurgood Marshall, ["Negro Discrimination and the Need for Federal Action"](https://archive.org/details/thurgoodmarshall0000mars/page/78/mode/2up)
-- Thurgood Marshall, "The Legal Attack to Secure Civil Rights" (Speech at the NAACP Wartime Conference, 1944)
-- Desmond King and Rogers Smith, "Racial Orders in American Political Development" (2005)
-- Megan Ming Francis, "Rethinking Civil Rights and American Political Development" (2014)
+- Claudia Jones, "An End to the Neglect of the Problems of the Negro Woman!" (1949)
+- TBD
 
 ### Tuesday, March 24
 - Barbara Ransby, _Ella Baker and the Black Freedom Movement_ (2003)
@@ -144,7 +142,6 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Tuesday, April 7
 - Bayard Rustin, "From Protest to Politics" (1964)
-- Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past" (2009)
 - Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
 
 ### Unit 3 Checkpoint
