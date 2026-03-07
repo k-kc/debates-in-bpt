@@ -110,7 +110,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Tuesday, March 17
 - Isabelle Wilkerson, ["the Great Migration 1915-1970,"](assets/wilkerson-the-warmth-of-other-suns.pdf) in _The Warmth of Other Suns_(2010)
-- Richard Wright, ["Chapter 2. Death on City Pavement"](assets/wright) in _12 Million Black Voices: A Folk History of the Negro in the United States_ (1940)
+- Richard Wright, ["Chapter 2. Death on City Pavement"](assets/wright-12-million-black-voices.pdf) in _12 Million Black Voices: A Folk History of the Negro in the United States_ (1940)
 - Jacqueline Dowd Hall, ["The Long Civil Rights Movement and the Political Uses of the Past"](assets/hall-long-crm-excerpt.pdf) (2005) excerpts
 
 
