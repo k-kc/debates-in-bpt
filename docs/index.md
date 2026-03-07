@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-Check back later for more updates
+Tuesday, March 17th readings have been updated!
 
 ---
 
