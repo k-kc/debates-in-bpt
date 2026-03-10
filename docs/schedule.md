@@ -115,8 +115,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 
 ### Thursday, March 19
-- Claudia Jones, "An End to the Neglect of the Problems of the Negro Woman!" (1949)
-- TBD
+- W.E.B. Du Bois, ["Marxism and the Negro Problem"](http://www.webdubois.org/dbMNP.html) in _The Crisis_ (1933)
+- Claudia Jones, ["An End to the Neglect of the Problems of the Negro Woman!"](assets/jones-end-to-the-neglect.pdf) (1949)
 
 ### Tuesday, March 24
 - Barbara Ransby, _Ella Baker and the Black Freedom Movement_ (2003)
