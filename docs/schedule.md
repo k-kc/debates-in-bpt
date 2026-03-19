@@ -119,10 +119,9 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Claudia Jones, ["An End to the Neglect of the Problems of the Negro Woman!"](assets/jones-end-to-the-neglect.pdf) (1949)
 
 ### Tuesday, March 24
-- Barbara Ransby, _Ella Baker and the Black Freedom Movement_ (2003)
-  - "The Preacher and the Organizer"
-  - "The Empowerment of Indigenous Southern Black Leadership"
-- Alicia Garza, "New Movements, New Leadership," in _The Purpose of Power_ (2020)
+- Barbara Ransby, ["The Empowerment of Indigenous Southern Black Leadership,"](assets/ransby-indigenous-leadership.pdf) _Ella Baker and the Black Freedom Movement_ (2003)
+
+- Alicia Garza, ["New Movements, New Leadership,"](assets/garza-new-movements.pdf) in _The Purpose of Power_ (2020)
 
 ### Thursday, March 26
 **No class**
