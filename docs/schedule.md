@@ -133,7 +133,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
 ### Thursday, April 2
-- Malcolm X, ["Message to the Grassroots"]
+- Malcolm X, ["Message to the Grassroots"](assets/malcolm-message-to-the-grassroots.pdf)
 - Audre Lorde, "What We Learned from the 60s," in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
