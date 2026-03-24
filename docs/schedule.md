@@ -128,11 +128,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Tuesday, March 31
 - Martin Luther King Jr., _A Testament of Hope_ (1986)
-  - "Nonviolence and Racial Justice"
-  - "The Ethical Demands for Integration"
-  - "Give Us the Ballot—We Will Transform the South"
-  - "I Have a Dream"
-  - "Letter from a Birmingham City Jail"
+  - ["Nonviolence and Racial Justice"](assets/king-nonviolence-and-racial-justice.pdf)
+  - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
 - Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
 ### Thursday, April 2
