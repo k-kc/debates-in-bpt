@@ -133,7 +133,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Brandon M. Terry and Tommie Shelby, "Martin Luther King, Jr. and Political Philosophy" (2018)
 
 ### Thursday, April 2
-- Malcolm X, ["Message to the Grassroots"](https://teachingamericanhistory.org/document/message-to-grassroots/) (1963) and ["The Ballot or the Bullet"](https://teachingamericanhistory.org/document/the-ballot-or-the-bullet-2/) (1964)
+- Malcolm X, ["Message to the Grassroots"]
 - Audre Lorde, "What We Learned from the 60s," in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
