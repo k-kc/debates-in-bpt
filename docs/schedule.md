@@ -130,7 +130,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Martin Luther King Jr., _A Testament of Hope_ (1986)
   - ["Nonviolence and Racial Justice"](assets/king-nonviolence-and-racial-justice.pdf)
   - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
-- Brandon M. Terry, "MLK Now" (2018)
+- Brandon M. Terry, "MLK Now," excerpts (2018)
 
 ### Thursday, April 2
 - Malcolm X, ["Message to the Grassroots"](assets/malcolm-message-to-the-grassroots.pdf)
