@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-Tuesday, March 17th readings have been updated!
+No class today (3/24)!
 
 ---
 
