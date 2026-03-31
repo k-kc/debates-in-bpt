@@ -137,11 +137,13 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Audre Lorde, "What We Learned from the 60s," in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
-- Bayard Rustin, "From Protest to Politics" (1964)
-- Barack Obama, ["How to Make this Moment the Turning Point for Real Change"](https://barackobama.medium.com/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067) (2020)
+- Stokley Carmichael and Charles V. Hamilton, _Black Power: The Politics of Liberation_ (1967)
+  - ["Chapter 1: White Power: The Colonial Situation"](https://teachingamericanhistory.org/document/black-power/)
+  - ["Chapter 2: Black Power: Its Need and Its Substance"](https://teachingamericanhistory.org/document/black-power/)
 
 ### Unit 3 Checkpoint
-- James Baldwin, ["Letter from a Region of My Mind"](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind) (1962)
+- Bayard Rustin, "From Protest to Politics" (1964)
+- Martin Luther King, "Where Do We Go From Here?" (1967)
 - **Wednesday, April 8 at 11:59 PM:** Prep memo due
 - **Thursday, April 9:** In-class discussion assessment
 
@@ -155,24 +157,21 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Amiri Baraka, ["Black Art"](https://www.youtube.com/watch?v=Q5zmgGtkDHU) (1966)
 
 ### Thursday, April 16
-- Stokley Carmichael and Charles V. Hamilton, _Black Power: The Politics of Liberation_ (1967)
-  - ["Chapter 1: White Power: The Colonial Situation"](https://teachingamericanhistory.org/document/black-power/)
-  - ["Chapter 2: Black Power: Its Need and Its Substance"](https://teachingamericanhistory.org/document/black-power/)
-
-### Tuesday, April 21
 - Huey P. Newton
   - "In Defense of Self Defense"
   - "Functional Definition of Politics"
   - "The Correct Handling of a Revolution"
-- Angela Y. Davis, "Political Prisoners, Prisons, and Black Liberation," in _If They Come in the Morning..._ (1971)
 - Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) (2017)
 
-### Thursday, April 23
+### Tuesday, April 21
 - The Combahee River Collective, "A Black Feminist Statement" (1979)
 - Audre Lorde, "Uses of the Erotic," in _Sister Outsider_ (1984)
 - bell hooks, "Mama Love," in _Salvation: Black People and Love_ (2004)
 
-### Tuesday, April 28
+### Thursday, April 23
 - Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
   - ["Introduction: Prison Reform or Prison Abolition?"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
   - ["Chapter 2: Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
+
+### Tuesday, April 28
+TBD
