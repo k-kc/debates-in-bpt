@@ -134,7 +134,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Thursday, April 2
 - Malcolm X, ["Message to the Grassroots"](assets/malcolm-message-to-the-grassroots.pdf)
-- Audre Lorde, "What We Learned from the 60s," in _Sister Outsider_ (1984)
+- Audre Lorde, ["What We Learned from the 60s,"](assets/lorde-what-we-learned-from-the-60s.pdf) in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
 - Stokley Carmichael and Charles V. Hamilton, _Black Power: The Politics of Liberation_ (1967)
