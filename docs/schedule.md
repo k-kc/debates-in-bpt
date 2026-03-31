@@ -140,7 +140,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Martin Luther King Jr., _A Testament of Hope_ (1986)  
   - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
 
-- Stokley Carmichael ["Black Power and the Third World"] (1967)
+- Stokley Carmichael ["Black Power and the Third World"](assets/charmichael-black-power-and-the-third-world.pdf) (1967)
  
 ### Unit 3 Checkpoint
 - Bayard Rustin, "From Protest to Politics" (1964)
