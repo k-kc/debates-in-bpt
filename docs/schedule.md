@@ -129,7 +129,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 ### Tuesday, March 31
 - Martin Luther King Jr., _A Testament of Hope_ (1986)
   - ["Nonviolence and Racial Justice"](assets/king-nonviolence-and-racial-justice.pdf)
-  - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
+
 - Brandon M. Terry & Tommie Shelby, ["Martin Luther King Jr. and Political Philosophy," excerpts](assets/shelby-terry-intro.pdf) (2018)
 
 ### Thursday, April 2
@@ -137,10 +137,11 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Audre Lorde, ["What We Learned from the 60s,"](assets/lorde-what-we-learned-from-the-60s.pdf) in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
-- Stokley Carmichael and Charles V. Hamilton, _Black Power: The Politics of Liberation_ (1967)
-  - ["Chapter 1: White Power: The Colonial Situation"](https://teachingamericanhistory.org/document/black-power/)
-  - ["Chapter 2: Black Power: Its Need and Its Substance"](https://teachingamericanhistory.org/document/black-power/)
+- Martin Luther King Jr., _A Testament of Hope_ (1986)  
+  - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
 
+- Stokley Carmichael ["Black Power and the Third World"] (1967)
+ 
 ### Unit 3 Checkpoint
 - Bayard Rustin, "From Protest to Politics" (1964)
 - Martin Luther King, "Where Do We Go From Here?" (1967)
