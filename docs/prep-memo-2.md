@@ -16,6 +16,8 @@ In this two-part assessment, you will analyze and compare Bayard Rustin's "From 
 **Length:** 3–4 pages  
 **Format:** Chicago
 
+[Sample Prep Memo](assets/prep-memo-example.pdf) 
+
 ### Guiding Questions
 
 Your memo should address all of the following:
