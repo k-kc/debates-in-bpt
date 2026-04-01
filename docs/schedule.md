@@ -143,8 +143,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Stokley Carmichael ["Black Power and the Third World"](assets/charmichael-black-power-and-the-third-world.pdf) (1967)
  
 ### Unit 3 Checkpoint
-- Bayard Rustin, "From Protest to Politics" (1964)
-- Martin Luther King, "Where Do We Go From Here?" (1967)
+- Bayard Rustin, ["From Protest to Politics"](assets/rustin-protest-to-politics.pdf) (1964)
+- Martin Luther King, ["Where Do We Go From Here?"](assets/king-where-do-we-go.pdf) (1967)
 - **Wednesday, April 8 at 11:59 PM:** Prep memo due
 - **Thursday, April 9:** In-class discussion assessment
 
