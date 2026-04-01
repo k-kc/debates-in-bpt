@@ -137,9 +137,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Audre Lorde, ["What We Learned from the 60s,"](assets/lorde-what-we-learned-from-the-60s.pdf) in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
-- Martin Luther King Jr., _A Testament of Hope_ (1986)  
-  - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
-
+- Martin Luther King Jr., _A Testament of Hope_ (1986)
+ - ["The Ethical Demands for Integration"](assets/king-ethical-demands-of-integration.pdf)
 - Stokley Carmichael ["Black Power and the Third World"](assets/charmichael-black-power-and-the-third-world.pdf) (1967)
  
 ### Unit 3 Checkpoint
