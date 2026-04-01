@@ -161,7 +161,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
   
 ### Thursday, April 16
 - Michelle Wallace, ["Anger in Isolation: A Black Feminst Search for Sisterhood"](assets/wallace-in-search-of-sisterhood.pdf) (1974)
-- The Combahee River Collective, ["A Black Feminist Statement](assets/combahee-river-statement)" (1979)
+- The Combahee River Collective, ["A Black Feminist Statement](assets/combahee-river-statement.pdf)" (1979)
 
 ### Tuesday, April 21
 - Audre Lorde, _Sister Outsider_ (1984)
