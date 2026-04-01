@@ -153,23 +153,21 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 ## Unit 4: Black Power & Its Afterlives (1966-Present)
 
 ### Tuesday, April 14
-- Franz Fanon, ["Concerning Violence,"] in _Wretched of the Earth_ (1961), excerpts
-
+- Franz Fanon, ["Concerning Violence,"](assets/fanon-wretched-concerning-violence.pdf) in _Wretched of the Earth_ (1961), excerpts
 - The Black Panther's ["Ten Point Program"](https://www.marxists.org/archive/newton/1966/10/15.htm)
-
 - Huey P. Newton
   - ["In Defense of Self Defense"](https://www.marxists.org/archive/newton/1967/07/03.htm)
   - ["Functional Definition of Politics"](https://www.marxists.org/archive/newton/1969/01/17.htm)
   
 ### Thursday, April 16
-- Michelle Wallace, "Anger in Isolation: A Black Feminst Search for Sisterhood" (1974)
-- The Combahee River Collective, "A Black Feminist Statement" (1979)
+- Michelle Wallace, ["Anger in Isolation: A Black Feminst Search for Sisterhood"](assets/wallace-in-search-of-sisterhood.pdf) (1974)
+- The Combahee River Collective, ["A Black Feminist Statement](assets/combahee-river-statement)" (1979)
 
 ### Tuesday, April 21
 - Audre Lorde, _Sister Outsider_ (1984)
-  - "Age, Race, Class, and Sex: Women Redefining Difference"
-  - "The Master's Tools Will Never Dismantle The Master's House"
-  - "Uses of the Erotic"
+  - ["Age, Race, Class, and Sex: Women Redefining Difference"](assets/lorde-age-race-class-sex.pdf)
+  - ["The Master's Tools Will Never Dismantle The Master's House"](assets/lorde-the-masters-tools.pdf)
+  - ["Uses of the Erotic"](assets/lorde-uses-of-the-erotic.pdf)
 
 ### Thursday, April 23
 - Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
