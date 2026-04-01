@@ -153,21 +153,23 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 ## Unit 4: Black Power & Its Afterlives (1966-Present)
 
 ### Tuesday, April 14
-- Jean-Paul Sartre, ["Preface,"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) in _Wretched of the Earth_ (1961), p. 7–12
-- Franz Fanon, ["Concerning Violence,"](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf) in _Wretched of the Earth_ (1961), p. 37–45
-- Amiri Baraka, ["Black Art"](https://www.youtube.com/watch?v=Q5zmgGtkDHU) (1966)
+- Franz Fanon, ["Concerning Violence,"] in _Wretched of the Earth_ (1961), excerpts
 
-### Thursday, April 16
+- The Black Panther's ["Ten Point Program"](https://www.marxists.org/archive/newton/1966/10/15.htm)
+
 - Huey P. Newton
-  - "In Defense of Self Defense"
-  - "Functional Definition of Politics"
-  - "The Correct Handling of a Revolution"
-- Cedric Johnson, ["The Panthers Can't Save Us Now"](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) (2017)
+  - ["In Defense of Self Defense"](https://www.marxists.org/archive/newton/1967/07/03.htm)
+  - ["Functional Definition of Politics"](https://www.marxists.org/archive/newton/1969/01/17.htm)
+  
+### Thursday, April 16
+- Michelle Wallace, "Anger in Isolation: A Black Feminst Search for Sisterhood" (1974)
+- The Combahee River Collective, "A Black Feminist Statement" (1979)
 
 ### Tuesday, April 21
-- The Combahee River Collective, "A Black Feminist Statement" (1979)
-- Audre Lorde, "Uses of the Erotic," in _Sister Outsider_ (1984)
-- bell hooks, "Mama Love," in _Salvation: Black People and Love_ (2004)
+- Audre Lorde, _Sister Outsider_ (1984)
+  - "Age, Race, Class, and Sex: Women Redefining Difference"
+  - "The Master's Tools Will Never Dismantle The Master's House"
+  - "Uses of the Erotic"
 
 ### Thursday, April 23
 - Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
