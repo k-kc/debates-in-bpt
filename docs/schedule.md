@@ -134,6 +134,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Thursday, April 2
 - Malcolm X, ["Message to the Grassroots"](assets/malcolm-message-to-the-grassroots.pdf)
+  - [Audio version of "Message to the Grassroots"](https://youtu.be/lY39tp3LEKI?si=vMdHpH6Pn-NpBhC0&t=840)  
 - Audre Lorde, ["What We Learned from the 60s,"](assets/lorde-what-we-learned-from-the-60s.pdf) in _Sister Outsider_ (1984)
 
 ### Tuesday, April 7
