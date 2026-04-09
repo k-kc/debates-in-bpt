@@ -146,7 +146,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 - Bayard Rustin, ["From Protest to Politics"](assets/rustin-protest-to-politics.pdf) (1964)
 - Martin Luther King, ["Where Do We Go From Here?"](assets/king-where-do-we-go.pdf) (1967)
 - **Wednesday, April 8 at 11:59 PM:** Prep memo due
-- **Thursday, April 9:** In-class discussion assessment
+- **Thursday, April 9:** [In-class discussion assessment](assets/unit-3-where-do-we-go-from-here-slides.pdf)
+  
 
 ---
 
@@ -154,6 +155,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Tuesday, April 14
 - Franz Fanon, ["Concerning Violence,"](assets/fanon-wretched-concerning-violence.pdf) in _Wretched of the Earth_ (1961), excerpts
+  - Optional: [Sartre's Introduction to _Wretched of the Earth_](assets/sartre-wretched-introduction.pdf)
 - The Black Panther's ["Ten Point Program"](https://www.marxists.org/archive/newton/1966/10/15.htm)
 - Huey P. Newton
   - ["In Defense of Self Defense"](https://www.marxists.org/archive/newton/1967/07/03.htm)
