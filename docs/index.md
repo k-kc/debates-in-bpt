@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-No class today (3/24)!
+Check back later for more updates
 
 ---
 
