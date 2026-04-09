@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-[Midsemester Feedback #2 Open Now](https://forms.gle/i12S4P5Rpnt4noHr9)
+[Midsemester Feedback #2 is Now Open!](https://forms.gle/i12S4P5Rpnt4noHr9)
 
 ---
 
