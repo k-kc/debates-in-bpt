@@ -174,7 +174,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 ### Thursday, April 23
 - Angela Y. Davis, "Black Nationalism: The Sixties and the Nineties"
 - Cathy Cohen, "Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics"
-- Cathy Cohen, "Deviance as Resistance: A New Research Agenda for Black Politics"
+- "Katrina Haslip" [00:00-13:25] of[ _Nothing Without Us: Women in the Global Fight Against AIDS_](https://www.kanopy.com/en/brynmawr/video/5564940)
+  - to access the documentary on Kanopy you might have to enter your Bryn Mawr credentials! 
 
 ### Tuesday, April 28
 - Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
