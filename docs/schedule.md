@@ -172,9 +172,11 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
   - ["Uses of the Erotic"](assets/lorde-uses-of-the-erotic.pdf)
 
 ### Thursday, April 23
-- Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
-  - ["Introduction: Prison Reform or Prison Abolition?"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
-  - ["Chapter 2: Slavery, Civil Rights, and Abolitionist Perspectives Toward Prison"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
+- Angela Y. Davis, "Black Nationalism: The Sixties and the Nineties"
+- Cathy Cohen, "Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics"
+- Cathy Cohen, "Deviance as Resistance: A New Research Agenda for Black Politics"
 
 ### Tuesday, April 28
-TBD
+- Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
+  - ["Introduction: Prison Reform or Prison Abolition?"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
+- Michelle Alexander, _The New Jim Crow_ (excerpts)
