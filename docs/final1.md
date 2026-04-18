@@ -2,21 +2,26 @@
 layout: default
 ---
 
-# Final Capstone Essay
+# Final  Essay
 
 ## Assignment Overview
 
-For your final essay, you will apply genealogical analysis to a contemporary source that you have not studied in this course. Your task is to trace how this thinker engages the Black political tradition we have studied across Units 1–4, showing how they inherit, revise, or reject earlier ideas under the conditions they face.
+For your final paper, you will apply genealogical analysis to one of the six contemporary sources listed below, tracing how it engages the Black political tradition we have examined across the semester. In 8-10 pages, situate your chosen thinker within that tradition—showing how they inherit, revise, or reject earlier ideas in response to a specific historical moment. Your paper should identify which figures your thinker explicitly or implicitly draws upon and explain what conceptual and strategic work those inheritances perform. It should locate the particular historical crisis animating your thinker's intervention and show how that urgency shapes their argument. You should also assess where the tradition's limitations persist in new forms, and where your thinker has had to genuinely innovate—developing concepts or arguments the tradition had not yet needed to address. 
 
-This essay represents the culmination of the genealogical thinking you have practiced throughout the semester—in Unit 2's genealogy paper, in Unit 3's seminar discussion on Baldwin, and in your engagement with the tradition as a whole.
+Classics
+Ta-Nehisi Coates, _Between the World and Me_(2014)
+Elizabeth Alexander, _The Trayvon Generation_(2024)
+Cedric Johnson,[ _The Panthers Can't Save Us Now_(2017)](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) 
 
+Funky
+Sinners 
 ---
 
 ## Requirements
 
-- **Length:** 10–12 pages
+- **Length:** 8-10 pages
 - **Due:** May 9, 2026 at 11:59 PM
-- **Sources:** Course texts only (no outside research beyond the source material provided)
+- **Sources:** Course texts only (no outside research beyond the source material required)
 - **Format:** Chicago
 
 ---
@@ -26,13 +31,13 @@ This essay represents the culmination of the genealogical thinking you have prac
 Write an essay that addresses all of the following:
 
 **On Intellectual Inheritance**
-- Which figures from our course is this contemporary thinker drawing on to think about their problem? Identify explicit references, thematic echoes, and conceptual inheritances from the tradition.
+- Which figure (choose 1) from our course is this contemporary thinker drawing on to think about their problem? Identify explicit references, thematic echoes, and conceptual inheritances from the tradition.
 
 **On Historical Urgency**
-- What is the specific historical problem this thinker is confronting? Move beyond general categories to identify the particular crisis, condition, or challenge that makes their intervention urgent and distinctive.
+- What is the specific historical problem this text is confronting? Identify the particular crisis, condition, or challenge that makes their intervention urgent and distinctive.
 
 **On Strategic Transformation**
-- How does this thinker respond to and transform the arguments they inherit from the tradition? What strategies, concepts, or analyses do they modify, reject, or intensify in response to their particular historical moment?
+- How does this text respond to and transform the arguments it inherits from the intellectual tradition of Black political thought? What strategies, concepts, or analyses do they modify, reject, or intensify in response to their particular historical moment?
 
 **On Persistent Vulnerabilities**
 - What vulnerabilities or blindspots from earlier thinkers persist in this thinker's work? Where do the constraints or limitations of the tradition reappear in new forms?
@@ -40,8 +45,6 @@ Write an essay that addresses all of the following:
 **On Innovation**
 - What does this thinker have to invent or argue for that the tradition had not yet needed to address? Identify the new concepts, arguments, or strategies they develop in response to problems specific to their moment.
 
-**On Adequacy and Loss**
-- What is gained—and what is lost—by how this thinker engages the tradition? Offer a judgment about the adequacy and limitations of their response to the historical problem they confront.
 
 ---
 
