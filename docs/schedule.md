@@ -175,9 +175,9 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Thursday, April 23
 - Clarence Thomas, ["Character,"](assets/thomas-character-speech.pdf) (1998)
-  - Justice C. Thomas, ["Concurrence, Part III"](assets/thomas-concurrence-sffa.pdf) _SFFA v. Harvard_ (2023)
+  - Optional: Justice C. Thomas, ["Concurrence, Part III"](assets/thomas-concurrence-sffa.pdf) _SFFA v. Harvard_ (2023)
 - Cathy Cohen, ["Deviance as Resistance" (excerpts)](assets/cohen-deviance-as-resistance-excerpt.pdf) (2004)
-  - Optional: Cathy Cohen, ["The Church?"](https://www.bostonreview.net/forum/eva-t-thorne-eugene-f-rivers-iii-faith-politics/cathy-j-cohen-church/)
+  - Optional: Cathy Cohen, ["The Church?"](https://www.bostonreview.net/forum/eva-t-thorne-eugene-f-rivers-iii-faith-politics/cathy-j-cohen-church/)(2001)
 
 ### Tuesday, April 28
 
