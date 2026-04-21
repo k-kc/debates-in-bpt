@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-[Final Paper options are now live!](/final1.md)
+[Final Paper options are now live!](/docs/final1.md)
 
 ---
 
