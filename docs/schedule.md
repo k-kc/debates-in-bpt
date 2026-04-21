@@ -173,7 +173,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Thursday, April 23
 - Clarence Thomas, ["Character,"](assets/thomas-character-speech.pdf) (1998)
-- Justice Thomas, ["Concurrence,"](assets/thomas-concurrence-sffa.pdf)  _Students for Fair Admissions v. Harvard_ (2023)
+- Cathy Cohen, "Deviance as Resistance" (excerpts) (2004)
 
 ### Tuesday, April 28
 
