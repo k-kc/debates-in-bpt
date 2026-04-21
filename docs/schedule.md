@@ -172,12 +172,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
   - ["Uses of the Erotic"](assets/lorde-uses-of-the-erotic.pdf)
 
 ### Thursday, April 23
-- Angela Y. Davis, "Black Nationalism: The Sixties and the Nineties"
-- Cathy Cohen, "Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics"
-- "Katrina Haslip" [00:00-13:25] of[ _Nothing Without Us: Women in the Global Fight Against AIDS_](https://www.kanopy.com/en/brynmawr/video/5564940)
-  - to access the documentary on Kanopy you might have to enter your Bryn Mawr credentials! 
+- Clarence Thomas, ["Character,"](assets/thomas-character-speech.pdf) (1998)
+- Justice Thomas, ["Concurrence,"](assets/thomas-concurrence-sffa.pdf)  _Students for Fair Admissions v. Harvard_ (2023)
 
 ### Tuesday, April 28
-- Angela Y. Davis, _Are Prisons Obsolete?_ (2003)
-  - ["Introduction: Prison Reform or Prison Abolition?"](https://decolonisesociology.com/wp-content/uploads/2019/03/angela-davis-are_prisons_obsolete.pdf)
-- Michelle Alexander, _The New Jim Crow_ (excerpts)
+
