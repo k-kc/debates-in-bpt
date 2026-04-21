@@ -9,14 +9,14 @@ layout: default
 For your final paper, you will apply genealogical analysis to one of the six contemporary sources listed below, tracing how it engages the Black political tradition we have examined across the semester. In 10-12 pages, situate your chosen thinker within that tradition—showing how they inherit, revise, or reject earlier ideas in response to a specific historical moment. Your paper should identify which figures your thinker explicitly or implicitly draws upon and explain what conceptual and strategic work those inheritances perform. It should locate the particular historical crisis animating your thinker's intervention and show how that urgency shapes their argument. You should also assess where the tradition's limitations persist in new forms, and where your thinker has had to genuinely innovate—developing concepts or arguments the tradition had not yet needed to address. 
 
 ### Classics
-Ta-Nehisi Coates, _Between the World and Me_(2014)
-Morgan Parker, _Magical Negro_ (2019)
-Cedric Johnson,[ _The Panthers Can't Save Us Now_(2017)](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) 
+- Ta-Nehisi Coates, _Between the World and Me_(2014)
+- Cedric Johnson,[ _The Panthers Can't Save Us Now_(2017)](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson)
+- Morgan Parker, _Magical Negro_ (2019)
 
 ### Funky
-Elizabeth Alexander, _The Trayvon Generation_ (2024)
-Ryan Coogler's _Sinners_ (2025)
-Chance the Rapper's Star Line (2025)
+- Elizabeth Alexander, _The Trayvon Generation_ (2024)
+- Ryan Coogler's _Sinners_ (2025)
+- Chance the Rapper's Star Line (2025)
 
 ---
 
