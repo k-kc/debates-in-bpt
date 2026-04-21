@@ -173,7 +173,7 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
 
 ### Thursday, April 23
 - Clarence Thomas, ["Character,"](assets/thomas-character-speech.pdf) (1998)
-- Cathy Cohen, "Deviance as Resistance" (excerpts) (2004)
+- Cathy Cohen, ["Deviance as Resistance" (excerpts)](assets/cohen-deviance-as-resistance-excerpt.pdf) (2004)
 
 ### Tuesday, April 28
 
