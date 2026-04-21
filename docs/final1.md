@@ -13,7 +13,7 @@ Ta-Nehisi Coates, _Between the World and Me_(2014)
 Morgan Parker, _Magical Negro_ (2019)
 Cedric Johnson,[ _The Panthers Can't Save Us Now_(2017)](https://catalyst-journal.com/2017/11/panthers-cant-save-us-cedric-johnson) 
 
-###Funky
+### Funky
 Elizabeth Alexander, _The Trayvon Generation_ (2024)
 Ryan Coogler's _Sinners_ (2025)
 Chance the Rapper's Star Line (2025)
