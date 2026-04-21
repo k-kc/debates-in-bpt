@@ -170,6 +170,8 @@ In-class activity:[ _Souls_ Translation](assets/souls-translation.pdf)
   - ["Age, Race, Class, and Sex: Women Redefining Difference"](assets/lorde-age-race-class-sex.pdf)
   - ["The Master's Tools Will Never Dismantle The Master's House"](assets/lorde-the-masters-tools.pdf)
   - ["Uses of the Erotic"](assets/lorde-uses-of-the-erotic.pdf)
+ 
+  ["A Litany for Survival" (1978)](https://www.youtube.com/watch?v=IGWj0YGaVx4&t=28s)
 
 ### Thursday, April 23
 - Clarence Thomas, ["Character,"](assets/thomas-character-speech.pdf) (1998)
