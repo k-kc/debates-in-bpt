@@ -17,7 +17,7 @@ For your final paper, you will apply genealogical analysis to one of the six con
 ### Funky
 - Morgan Parker, _Magical Negro_ (2019)
 - Ryan Coogler's _Sinners_ (2025)
-- Chance the Rapper's Star Line (2025)
+- Chance the Rapper's _Star Line_ (2025)
 
 ---
 
