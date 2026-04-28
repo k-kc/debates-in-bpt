@@ -17,7 +17,7 @@ Dalton Hall, Room 6
 
 ## Announcements
 
-[Final Paper options are now live!](/docs/final1.md)
+You can now access the course's [Recommended Reading List](/b-sides.md)
 
 ---
 
