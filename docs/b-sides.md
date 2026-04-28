@@ -14,6 +14,7 @@
 ## Unit 3 - The Dawn of Mass Struggle (1919-1965) 
 - Megan Ming Francis, Civil Rights and the Making of the Modern American State (2014)
 - William J. Maxwell, F.B. Eyes: How J. Edgar Hoover's Ghostreaders Framed African American Literature (2015)
+- Beverely Gage, G-Man: J. Edgar Hoover and the American Century (2024)
 - Nikhil Pal Singh, Black Is a Country: Race and the Unfinished Struggle for Democracy (2004)
 - Brandon M. Terry, Shattered Dreams, Infinite Hope (2025)
 - Frantz Fanon, Black Skin, White Masks (1952)
